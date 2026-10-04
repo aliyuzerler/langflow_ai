@@ -1,0 +1,2301 @@
+0000|N
+0001|ID
+0002|DSN
+0003|LLM
+0004|URI
+0005|URL
+0006|Body
+0007|Data
+0008|Done
+0009|Fail
+0010|Goal
+0011|Item
+0012|JSON
+0013|Loop
+0014|Mode
+0015|Name
+0016|Pass
+0017|Path
+0018|Port
+0019|Role
+0020|Seed
+0021|Skip
+0022|Sort
+0023|Tags
+0024|Task
+0025|Text
+0026|Tool
+0027|True
+0028|URLs
+0029|User
+0030|aMap
+0031|cURL
+0032|Agent
+0033|Cache
+0034|Depth
+0035|False
+0036|Files
+0037|Input
+0038|Limit
+0039|Model
+0040|Order
+0041|Proxy
+0042|Query
+0043|TFS Z
+0044|Table
+0045|Tasks
+0046|Texts
+0047|Tools
+0048|Top K
+0049|Top N
+0050|Top P
+0051|Topic
+0052|Value
+0053|Agents
+0054|Append
+0055|Chunks
+0056|Client
+0057|Dotenv
+0058|Engine
+0059|Filter
+0060|Format
+0061|Inputs
+0062|Listen
+0063|Memory
+0064|Method
+0065|Metric
+0066|Notify
+0067|Ollama
+0068|OpenAI
+0069|Output
+0070|Parser
+0071|Prompt
+0072|Reject
+0073|Result
+0074|Routes
+0075|Schema
+0076|Scopes
+0077|Sender
+0078|Stream
+0079|System
+0080|Update
+0081|Upsert
+0082|kwargs
+0083|API Key
+0084|Approve
+0085|As List
+0086|Catalog
+0087|Chunker
+0088|Doc Key
+0089|Docling
+0090|Enabled
+0091|Flow ID
+0092|Headers
+0093|If-Else
+0094|Max RPM
+0095|Message
+0096|Payload
+0097|Results
+0098|Task ID
+0099|Timeout
+0100|Toolset
+0101|Verbose
+0102|Webhook
+0103|aReduce
+0104|env_set
+0105|Activity
+0106|Articles
+0107|Astra DB
+0108|BigQuery
+0109|CSV File
+0110|Database
+0111|Document
+0112|Endpoint
+0113|Hostname
+0114|JQ Query
+0115|Key Name
+0116|Keyspace
+0117|Language
+0118|Load CSV
+0119|Max Rows
+0120|Max Size
+0121|Messages
+0122|Metadata
+0123|Mirostat
+0124|Model ID
+0125|Model Id
+0126|Operator
+0127|Password
+0128|Pipeline
+0129|Policies
+0130|Provider
+0131|Reranker
+0132|Response
+0133|Run Flow
+0134|SQLAgent
+0135|Sub Flow
+0136|Template
+0137|Text Key
+0138|Timezone
+0139|Truncate
+0140|Username
+0141|A2A Agent
+0142|Add Error
+0143|Agent URL
+0144|Anthropic
+0145|Backstory
+0146|Batch Run
+0147|CSV Agent
+0148|Case True
+0149|Case Type
+0150|Cassandra
+0151|Condition
+0152|Delimiter
+0153|Directory
+0154|Documents
+0155|Embedding
+0156|File Data
+0157|File Name
+0158|File Path
+0159|Flow Name
+0160|Graph RAG
+0161|Input Key
+0162|JSON File
+0163|JSON List
+0164|JSON Mode
+0165|JsonAgent
+0166|Judge LLM
+0167|Knowledge
+0168|Label IDs
+0169|Load JSON
+0170|MCP Tools
+0171|Mock Data
+0172|Namespace
+0173|Operation
+0174|Read File
+0175|Read Only
+0176|Recursive
+0177|Retriever
+0178|S3 Prefix
+0179|SQL Query
+0180|Separator
+0181|Tool Name
+0182|Use Async
+0183|Use Regex
+0184|User Name
+0185|User Text
+0186|Vectorize
+0187|XML Agent
+0188|aGenerate
+0189|AWS Region
+0190|Agent Type
+0191|Agent card
+0192|Auto Parse
+0193|Batch Size
+0194|CSV String
+0195|Cache Flow
+0196|Calculator
+0197|Case False
+0198|Categories
+0199|Chain Type
+0200|Chat Input
+0201|Chunk Size
+0202|Collection
+0203|Context ID
+0204|Data Index
+0205|Data Input
+0206|Deployment
+0207|Dimensions
+0208|Embeddings
+0209|Expression
+0210|File Types
+0211|Filter Key
+0212|First Text
+0213|Guardrails
+0214|Has Header
+0215|Input Data
+0216|Input Text
+0217|Input Type
+0218|Left Table
+0219|Logit Bias
+0220|MCP Server
+0221|Match Text
+0222|Max Tokens
+0223|Merge Type
+0224|Model Name
+0225|OCR Engine
+0226|Operations
+0227|Output Key
+0228|Parameters
+0229|Parse JSON
+0230|Project ID
+0231|Projection
+0232|Prompt Hub
+0233|Query Item
+0234|Query Type
+0235|RSS Reader
+0236|Raw Result
+0237|Search API
+0238|Separators
+0239|Session ID
+0240|Setup Mode
+0241|Share Crew
+0242|Skip Empty
+0243|Split Text
+0244|Strictness
+0245|Strip Mode
+0246|Strip Path
+0247|Table Name
+0248|Text Input
+0249|User Agent
+0250|Web Search
+0251|Write File
+0252|API Request
+0253|API Timeout
+0254|API Version
+0255|Blog Writer
+0256|Bucket Name
+0257|Buffer Size
+0258|Chat Memory
+0259|Chat Output
+0260|Clean Query
+0261|Column Name
+0262|Concurrency
+0263|Context Key
+0264|Count Lines
+0265|Count Words
+0266|Create Data
+0267|Create List
+0268|Data Inputs
+0269|Data Method
+0270|Description
+0271|Document ID
+0272|Environment
+0273|Extra Tools
+0274|Extract Key
+0275|File Format
+0276|File System
+0277|Filter Data
+0278|Human Input
+0279|Ingest Data
+0280|Input Table
+0281|Input Value
+0282|JSON Output
+0283|JSON String
+0284|JSON to Map
+0285|LLM Results
+0286|Load Hidden
+0287|Manager LLM
+0288|Max Matches
+0289|Max Results
+0290|Max Retries
+0291|Memory Base
+0292|Merge Flows
+0293|Merge peers
+0294|News Search
+0295|Output Text
+0296|Output Type
+0297|Parsed Text
+0298|Presto Host
+0299|Python Code
+0300|Python REPL
+0301|Random Seed
+0302|Raw Content
+0303|Region Name
+0304|Remove Keys
+0305|Rename Keys
+0306|Result Data
+0307|Right Table
+0308|S3 File Key
+0309|SQLDatabase
+0310|Sample Size
+0311|Schema Name
+0312|Search Body
+0313|Search Mode
+0314|Search Term
+0315|Search Type
+0316|Second Text
+0317|Select Data
+0318|Select Keys
+0319|Select Path
+0320|Sender Name
+0321|Sender Type
+0322|Stop Tokens
+0323|TTL Seconds
+0324|Temperature
+0325|Text Output
+0326|Timeout (s)
+0327|Tool params
+0328|True Output
+0329|Update Data
+0330|Use SSL/TLS
+0331|API Base URL
+0332|API Key name
+0333|API Response
+0334|Agent kwargs
+0335|Allowed URLs
+0336|Astra DB CQL
+0337|Azure OpenAI
+0338|Bearer Token
+0339|Build Prompt
+0340|Chat History
+0341|Chat Message
+0342|Clean Output
+0343|Combine Data
+0344|Combine Text
+0345|Country (gl)
+0346|CrewAI Agent
+0347|Current Date
+0348|Database URI
+0349|Database URL
+0350|Descriptions
+0351|Document IDs
+0352|Document Q&A
+0353|Endpoint URL
+0354|False Output
+0355|File Content
+0356|Filter Value
+0357|Flow Outputs
+0358|Flow as Tool
+0359|Gmail Loader
+0360|HCD Password
+0361|HCD Username
+0362|HTTP headers
+0363|IAM Endpoint
+0364|ID Generator
+0365|Instructions
+0366|JSON Cleaner
+0367|Kind of edge
+0368|LLM Selector
+0369|LLMMathChain
+0370|Loaded Files
+0371|Message Type
+0372|Mirostat Eta
+0373|Mirostat Tau
+0374|Model Kwargs
+0375|Ollama Model
+0376|OpenAI Proxy
+0377|Optimization
+0378|Output Table
+0379|Query Params
+0380|Query String
+0381|RSS Feed URL
+0382|Result Table
+0383|Retrieval QA
+0384|SQL Database
+0385|SaaS Pricing
+0386|Save to File
+0387|Search Query
+0388|Simple Agent
+0389|Smart Router
+0390|Stock Symbol
+0391|Table Output
+0392|Token String
+0393|Type Convert
+0394|User Choices
+0395|Vector Store
+0396|Wikidata API
+0397|Astra DB Tool
+0398|CSV File Path
+0399|Chunk Overlap
+0400|Code Language
+0401|Cohere Rerank
+0402|Combined Text
+0403|Content Field
+0404|Data Template
+0405|Database Name
+0406|Default Query
+0407|Default Route
+0408|Docling Serve
+0409|Document URLs
+0410|Export format
+0411|Exported data
+0412|Filter Values
+0413|Filtered Data
+0414|Function Code
+0415|Google CSE ID
+0416|Guarded Tools
+0417|HF model name
+0418|Input Message
+0419|JQ Expression
+0420|JSON or Table
+0421|Language (hl)
+0422|Lexical Terms
+0423|Manager Agent
+0424|Message Store
+0425|News Articles
+0426|OpenAPI Agent
+0427|Output Format
+0428|Output Parser
+0429|Output Schema
+0430|Pandas Kwargs
+0431|Previous Task
+0432|Query Results
+0433|Regex Pattern
+0434|Repeat Last N
+0435|Return Direct
+0436|Search Method
+0437|Selected Data
+0438|Silent Errors
+0439|Stop Sequence
+0440|System Prompt
+0441|Text Embedder
+0442|Top K Results
+0443|Validate JSON
+0444|Vector Stores
+0445|Wikipedia API
+0446|AWS Secret Key
+0447|Agent Executor
+0448|Allowed Topics
+0449|Alter Metadata
+0450|Amazon Bedrock
+0451|Astra DB Graph
+0452|Authentication
+0453|Azure Endpoint
+0454|Blocked Topics
+0455|CA Certificate
+0456|Case Sensitive
+0457|Cohere API Key
+0458|Embedding Data
+0459|Enter a URL...
+0460|Extracted Data
+0461|Global Imports
+0462|Google API Key
+0463|IBM watsonx.ai
+0464|JSON File Path
+0465|Keep Separator
+0466|Key to Extract
+0467|Knowledge Base
+0468|Language Model
+0469|Location (Geo)
+0470|Max Iterations
+0471|Maximum tokens
+0472|Memory Chatbot
+0473|Message Output
+0474|Model Response
+0475|Number of GPUs
+0476|Number of News
+0477|Number of Rows
+0478|Ollama API Key
+0479|Ollama API URL
+0480|OpenAI API Key
+0481|Operation Type
+0482|Ordered Insert
+0483|Output Message
+0484|Repeat Penalty
+0485|S3 Bucket Name
+0486|SearXNG Search
+0487|Search Pattern
+0488|Search Results
+0489|Serper API Key
+0490|Server address
+0491|Setup Provider
+0492|Sort Ascending
+0493|Static Filters
+0494|Static filters
+0495|Store Messages
+0496|System Message
+0497|Valid Operator
+0498|Yahoo! Finance
+0499|AWS Secret Key.
+0500|Advanced Parser
+0501|Astra Vectorize
+0502|Async Execution
+0503|Basic Prompting
+0504|Bind Parameters
+0505|Cache Directory
+0506|Cassandra Graph
+0507|Checking Method
+0508|Collection Name
+0509|Data Operations
+0510|Data to Message
+0511|Data to combine
+0512|Default Headers
+0513|Deployment Name
+0514|Docling options
+0515|Document Titles
+0516|Edge Definition
+0517|Embedding Model
+0518|Enable Fallback
+0519|Enable Metadata
+0520|Expected Output
+0521|External Memory
+0522|Extract Pattern
+0523|Extracted Pages
+0524|Fake Embeddings
+0525|Filter Criteria
+0526|Filter Operator
+0527|Ignored Message
+0528|Include Columns
+0529|JSON Operations
+0530|LLMCheckerChain
+0531|Language Models
+0532|Markdown Export
+0533|Market Research
+0534|Max Concurrency
+0535|Meeting Summary
+0536|Merge On Column
+0537|Message History
+0538|Message to Data
+0539|Metadata Filter
+0540|New Column Name
+0541|Off-topic Reply
+0542|Ollama Base URL
+0543|OpenAI API Base
+0544|OpenAI API Type
+0545|Override Output
+0546|Parse DataFrame
+0547|Prevent Outside
+0548|Prompt Template
+0549|Python Function
+0550|Redaction Style
+0551|Regex Extractor
+0552|Request Timeout
+0553|Select Location
+0554|Semantic Search
+0555|Sequential Crew
+0556|Sequential Task
+0557|Serp Search API
+0558|SerpAPI API Key
+0559|Similarity Data
+0560|Smart Transform
+0561|Stored Messages
+0562|Table Separator
+0563|Text Operations
+0564|TikToken Enable
+0565|Type of sender.
+0566|Use Bulk Insert
+0567|VectorStoreInfo
+0568|Wallet Password
+0569|Watsonx API Key
+0570|Allow Delegation
+0571|Allow Duplicates
+0572|Append or Update
+0573|Autoset Encoding
+0574|Basic Clean Data
+0575|Count Characters
+0576|Credentials File
+0577|Custom Component
+0578|Data → DataFrame
+0579|Enter a query...
+0580|Fields to Remove
+0581|Filter Text/HTML
+0582|Follow Redirects
+0583|HCD API Endpoint
+0584|Include Metadata
+0585|Loaded Documents
+0586|Metadata Columns
+0587|Model Evaluation
+0588|Model Parameters
+0589|Multi Agent Flow
+0590|New Column Value
+0591|Number of Chunks
+0592|Number of Fields
+0593|Policies Project
+0594|Presence Penalty
+0595|Provider API Key
+0596|Query Parameters
+0597|Replacement Text
+0598|Review Threshold
+0599|Routing Decision
+0600|Select Operation
+0601|Server File Path
+0602|Storage Location
+0603|Table Operations
+0604|Task Description
+0605|Tool Description
+0606|Tool Placeholder
+0607|Tools Parameters
+0608|Value to Replace
+0609|Vector Store RAG
+0610|kwargs of agent.
+0611|watsonx Space_ID
+0612|AWS Access Key ID
+0613|AWS Session Token
+0614|Anthropic API Key
+0615|Anthropic API URL
+0616|Astra DB Data API
+0617|Check Hidden Text
+0618|Cluster arguments
+0619|Cohere Embeddings
+0620|Columns to Select
+0621|ConversationChain
+0622|Count Upper Bound
+0623|Data or Data List
+0624|Disable Streaming
+0625|Distance Strategy
+0626|Embedding Vectors
+0627|Endpoint Override
+0628|Filter by Session
+0629|Frequency Penalty
+0630|Function Callable
+0631|Google Search API
+0632|Google Serper API
+0633|Hierarchical Crew
+0634|Hierarchical Task
+0635|Hybrid Search RAG
+0636|IBM Cloud API Key
+0637|Image export mode
+0638|Image placeholder
+0639|LangChain API Key
+0640|Loader Parameters
+0641|Log Probabilities
+0642|Max Output Tokens
+0643|Maximum poll time
+0644|Normalize Unicode
+0645|Number of Results
+0646|Number of Threads
+0647|Number of results
+0648|Ollama Embeddings
+0649|OpenAI Embeddings
+0650|OpenAI model name
+0651|Oracle Doc Loader
+0652|Oracle Embeddings
+0653|Price Deal Finder
+0654|Projection fields
+0655|Provider Override
+0656|Replacement Value
+0657|Runnable Executor
+0658|Search parameters
+0659|SearchAPI API Key
+0660|Second Text Input
+0661|Show Progress Bar
+0662|Similarity Metric
+0663|Structured Output
+0664|Timeout (seconds)
+0665|Use Cached Server
+0666|Vector Store Info
+0667|AWS Access key ID.
+0668|Agent Instructions
+0669|Cache Vector Store
+0670|Chain type to use.
+0671|Content Aggregator
+0672|Depth of traversal
+0673|Drop URL fragments
+0674|Enable Body Search
+0675|Enable Tool Models
+0676|File Format (Tool)
+0677|Google OAuth Token
+0678|Include Embeddings
+0679|Include Similarity
+0680|Max Content Length
+0681|Max Snippet Length
+0682|Number of Messages
+0683|OpenAI API Version
+0684|OpenAI Tools Agent
+0685|Organization Names
+0686|Output Column Name
+0687|Python Interpreter
+0688|Remove Empty Lines
+0689|Reranked Documents
+0690|S3 Bucket Uploader
+0691|SSL CA Certificate
+0692|Search type to use
+0693|Social Media Agent
+0694|Text Key Validator
+0695|The data to store.
+0696|Tool Calling Agent
+0697|Tool Model Enabled
+0698|Topic Restrictions
+0699|Use Multithreading
+0700|Watsonx Project ID
+0701|Workspace Sub-path
+0702|watsonx Project ID
+0703|watsonx Project_ID
+0704|Add a JSON example.
+0705|Call Wikipedia API.
+0706|Characters from End
+0707|Characters to Strip
+0708|Cleaned JSON String
+0709|Comparison Operator
+0710|Context Window Size
+0711|Continue on Failure
+0712|Create Vector Index
+0713|Deep Research Agent
+0714|Dotenv file content
+0715|Dynamic Create Data
+0716|Format Instructions
+0717|Google Drive Loader
+0718|Google Drive Search
+0719|Guardrails (Legacy)
+0720|HTML Link Extractor
+0721|Handle Parse Errors
+0722|Include Else Output
+0723|Input Configuration
+0724|Internal Subdomains
+0725|Keep Source Columns
+0726|Knowledge Ingestion
+0727|Knowledge Retrieval
+0728|Metadata Field Info
+0729|Model Name Override
+0730|Name of the sender.
+0731|OpenAI Organization
+0732|Oracle Vector Store
+0733|Remove Extra Spaces
+0734|Retrieved Documents
+0735|Selected Model Info
+0736|Size of the buffer.
+0737|Strategy Parameters
+0738|Structured Response
+0739|The field to query.
+0740|The text to analyze
+0741|The texts to split.
+0742|TikToken Model Name
+0743|Use Double Brackets
+0744|Use Global Variable
+0745|Allow Code Execution
+0746|Allow Dangerous Code
+0747|Always emit headings
+0748|Astra DB Chat Memory
+0749|Azure OpenAI API Key
+0750|Column Configuration
+0751|Embedding Parameters
+0752|Embedding Similarity
+0753|Expected Task Output
+0754|Function Calling LLM
+0755|Google Drive File ID
+0756|Google Generative AI
+0757|IBM Db2 Vector Store
+0758|IBM watsonx.data MCP
+0759|Instagram Copywriter
+0760|LangChain Hub Prompt
+0761|Organization Domains
+0762|Persistent Directory
+0763|SSL Certificate Path
+0764|Self Query Retriever
+0765|Sentence Split Regex
+0766|Traversal Strategies
+0767|URI to the database.
+0768|Use OpenRouter Specs
+0769|Watsonx API Endpoint
+0770|Writes to AWS Bucket
+0771|Your Ollama API key.
+0772|e.g., .properties.id
+0773|watsonx API Endpoint
+0774|AWS Secret Access Key
+0775|Astra DB API Endpoint
+0776|Autodetect Collection
+0777|Cassandra Chat Memory
+0778|Characters from Start
+0779|Check Response Status
+0780|Chunk DoclingDocument
+0781|Db2 database password
+0782|Get user text inputs.
+0783|Ollama Verbose Output
+0784|Pre Delete Collection
+0785|Prefix for all files.
+0786|Projection Attributes
+0787|SEO Keyword Generator
+0788|Sequential Task Agent
+0789|The name of the tool.
+0790|The record to update.
+0791|The text to validate.
+0792|Tool Arguments (JSON)
+0793|Top Log Probabilities
+0794|Truncate Input Tokens
+0795|Which chunker to use.
+0796|Add business policy...
+0797|Cohere Language Models
+0798|Data object to filter.
+0799|Export DoclingDocument
+0800|File Content Retriever
+0801|Filter by sender name.
+0802|Filter by sender type.
+0803|Formatted text output.
+0804|Function Output (JSON)
+0805|Generates a unique ID.
+0806|Google Drive Folder ID
+0807|Include HTTPx Metadata
+0808|Model Provider API key
+0809|Order of the messages.
+0810|Page break placeholder
+0811|Picture classification
+0812|Processing Concurrency
+0813|Search Metadata Filter
+0814|Search Score Threshold
+0815|Semantic Text Splitter
+0816|The role of the agent.
+0817|Travel Planning Agents
+0818|Use Astra DB Vectorize
+0819|VectorStoreRouterAgent
+0820|Verify SSL Certificate
+0821|Action for Flagged Text
+0822|Additional Instructions
+0823|Additional Model Fields
+0824|Amazon Bedrock Converse
+0825|Azure OpenAI Embeddings
+0826|Bulk Delete Concurrency
+0827|Call Google Search API.
+0828|Character Text Splitter
+0829|Country:Language (ceid)
+0830|Deletion Based On Field
+0831|Docling pipeline to use
+0832|Enable Custom Guardrail
+0833|Fallback to First Model
+0834|Financial Report Parser
+0835|IBM watsonx.data Presto
+0836|Load all available meta
+0837|Name of the VectorStore
+0838|Natural Language to SQL
+0839|Picture description LLM
+0840|Return Source Documents
+0841|Sequential Tasks Agents
+0842|Text Sentiment Analysis
+0843|The HTTP method to use.
+0844|Vector Index Parameters
+0845|Vector Store Connection
+0846|Your Anthropic API key.
+0847|A CSV File or File Path.
+0848|Allow Dangerous Requests
+0849|Creates a list of texts.
+0850|Credentials Profile Name
+0851|Embedding Context Length
+0852|Enable Structured Output
+0853|Enter one or more texts.
+0854|Enter terms to search...
+0855|Hyper-Converged Database
+0856|Ignore Invalid Documents
+0857|Ignore Unspecified Files
+0858|Image Sentiment Analysis
+0859|Number of Search Results
+0860|Placeholder for the tool
+0861|SSL Certificate Password
+0862|Strategy for file upload
+0863|The base URL of the API.
+0864|The generated unique ID.
+0865|Tools at agents disposal
+0866|Twitter Thread Generator
+0867|Amazon Bedrock Embeddings
+0868|Authentication Parameters
+0869|Authentication parameters
+0870|Azure Chat OpenAI API Key
+0871|Blocked Words and Phrases
+0872|Breakpoint Threshold Type
+0873|Function Output (Message)
+0874|IBM watsonx.ai Embeddings
+0875|Metadata Fields to Remove
+0876|Metadata Indexing Exclude
+0877|Metadata Indexing Include
+0878|Password / Astra DB Token
+0879|Remove Control Characters
+0880|Remove Special Characters
+0881|Request Timeout (seconds)
+0882|Research Translation Loop
+0883|Sensitive Document Labels
+0884|Tools at agent's disposal
+0885|Type of search to perform
+0886|Which tokenizer provider.
+0887|watsonx.data Instance URL
+0888|A description of the tool.
+0889|Astra DB Application Token
+0890|Collection Indexing Policy
+0891|Custom Component Generator
+0892|DEPRECATED: Partition Keys
+0893|Depth to search for files.
+0894|Embedding Provider API Key
+0895|File Description Generator
+0896|GCP Credentials Secret Key
+0897|LLM to be passed as input.
+0898|List of keys to filter by.
+0899|Number of Rows to Generate
+0900|Output Format Instructions
+0901|Picture description prompt
+0902|Select the tool to execute
+0903|Select your model provider
+0904|Sends text output via API.
+0905|The ID of the flow to run.
+0906|The code for the function.
+0907|The input text to process.
+0908|The text data to be split.
+0909|The value to replace with.
+0910|Breakpoint Threshold Amount
+0911|Connection to Vector Store.
+0912|DEPRECATED: Clustering Keys
+0913|Metadata incoming links key
+0914|Mutate on Duplicate Inserts
+0915|Prefix for all files in S3.
+0916|Semantic Search Instruction
+0917|Session ID for the message.
+0918|Text to be passed as input.
+0919|The Python code to execute.
+0920|The backstory of the agent.
+0921|The objective of the agent.
+0922|Upload Service Account JSON
+0923|Uploads files to S3 bucket.
+0924|Cassandra Graph Vector Store
+0925|Custom Guardrail Description
+0926|Document Content Description
+0927|Embedding or Astra Vectorize
+0928|Google Generative AI API Key
+0929|Index of the data to select.
+0930|List of data to select from.
+0931|Load .env file into env vars
+0932|Number of documents to skip.
+0933|Number of results to return.
+0934|Query to be passed as input.
+0935|Removes path from file path.
+0936|System prompt for the agent.
+0937|Text to be passed as output.
+0938|The data to convert to text.
+0939|The name of the flow to run.
+0940|The value to filter rows by.
+0941|AstraDBVectorStore Parameters
+0942|Bulk Insert Batch Concurrency
+0943|Distance calculation strategy
+0944|Enter the name of the bucket.
+0945|Files or file data to upload.
+0946|Heuristic Detection Threshold
+0947|Ignore Unsupported Extensions
+0948|List of LLMs to route between
+0949|Operator to use in the query.
+0950|Remove empty lines from text.
+0951|The LangChain API Key to use.
+0952|The name of the model to use.
+0953|The type of data to retrieve.
+0954|URL of the RSS feed to parse.
+0955|Choose where to save the file.
+0956|Description of the VectorStore
+0957|Enter the URL for the request.
+0958|Google Search API [DEPRECATED]
+0959|Google Serper API [DEPRECATED]
+0960|Message to be passed as input.
+0961|Metadata to add to each object
+0962|Natural Language Text Splitter
+0963|Represents an agent of CrewAI.
+0964|The JSON string to be cleaned.
+0965|The chat message to be stored.
+0966|The input message to be routed
+0967|The random seed for the model.
+0968|Whether to stream the response
+0969|Whether to use the tool model.
+0970|Block When a Check Fails to Run
+0971|Document content characters max
+0972|Extracts text using a template.
+0973|Fetches and parses an RSS feed.
+0974|Google Generative AI Embeddings
+0975|Include line count in analysis.
+0976|Include word count in analysis.
+0977|Information about a VectorStore
+0978|Message to be passed as output.
+0979|Number of Chat History Messages
+0980|Number of messages to retrieve.
+0981|Single Google Drive document ID
+0982|Timeout for the request stream.
+0983|[Deprecated] Use Multithreading
+0984|Additional Connection Parameters
+0985|Additional kwargs for the agent.
+0986|Controls randomness in responses
+0987|Convert and extract JSON fields.
+0988|Db2 server port (default: 50000)
+0989|Enter the name of the S3 bucket.
+0990|Generate text using Cohere LLMs.
+0991|Language Recursive Text Splitter
+0992|Number of top results to return.
+0993|Portfolio Website Code Generator
+0994|This is a custom component Input
+0995|Tool Execution Timeout (seconds)
+0996|### Configure your Model Provider
+0997|Bind variables for the SQL query.
+0998|Bulk Insert Overwrite Concurrency
+0999|Folder name of the generated code
+1000|Generates text using OpenAI LLMs.
+1001|Maximum number of emails to load.
+1002|Metadata to add to the run trace.
+1003|Oracle Autonomous Database Loader
+1004|Recursive Character Text Splitter
+1005|Specify the format of the output.
+1006|Store the message in the history.
+1007|The API Key to use for the model.
+1008|The list of data items to filter.
+1009|The maximum length of each chunk.
+1010|The message to be passed forward.
+1011|The message to send to the agent.
+1012|Timeout for the RSS feed request.
+1013|Type of case conversion to apply.
+1014|A placeholder input for tool mode.
+1015|Contact Points / Astra Database ID
+1016|Files to be sent with the message.
+1017|Input scopes for your application.
+1018|Output from a Read File component.
+1019|Password for basic authentication.
+1020|Search keywords for news articles.
+1021|System to use for generating text.
+1022|The data with documents to export.
+1023|The session ID to run the flow in.
+1024|The text input to compare against.
+1025|URL of the Docling Serve instance.
+1026|e.g. US:en, FR:fr. Default: US:en.
+1027|Agent to interact with OpenAPI API.
+1028|Choose where to read the file from.
+1029|Delete Server File After Processing
+1030|Generate SQL from natural language.
+1031|List of keys to rename in the data.
+1032|Number of search results to return.
+1033|Regex pattern to extract from text.
+1034|Remove multiple consecutive spaces.
+1035|Search Results from a Vector Store.
+1036|Search the web, news, or RSS feeds.
+1037|Select the desired output data type
+1038|Split text by number of characters.
+1039|String used to separate rows/items.
+1040|The input text to send to the model
+1041|The key to use for the text column.
+1042|The timeout to use for the request.
+1043|The value to replace in the column.
+1044|Timeout for API requests in seconds
+1045|Timeout for the request in seconds.
+1046|Vector Store to be passed as input.
+1047|Whether the table has a header row.
+1048|Whether to cache the selected flow.
+1049|Whether to print out response text.
+1050|Whether to sort in ascending order.
+1051|Batch size for processing embeddings
+1052|Get chat inputs from the Playground.
+1053|Include character count in analysis.
+1054|Select the similarity metric to use.
+1055|System message to pass to the model.
+1056|Template to use for generating text.
+1057|The first text input to concatenate.
+1058|The headers to send with the request
+1059|API endpoint URL for the HCD service.
+1060|Extract hyperlinks from HTML content.
+1061|Graph RAG traversal for vector store.
+1062|If true, hidden files will be loaded.
+1063|If true, multithreading will be used.
+1064|List of keys to remove from the data.
+1065|Maximum number of matches to extract.
+1066|Maximum number of tokens to generate.
+1067|Metadata key used for incoming links.
+1068|Penalty for frequency of token usage.
+1069|Select the text operation to perform.
+1070|The JSON / Data object to operate on.
+1071|The SQL query to execute on BigQuery.
+1072|The amount of overlap between chunks.
+1073|The input value to pass to the chain.
+1074|The key of the context to listen for.
+1075|The key to filter on (e.g., 'route').
+1076|The prompt must contain `{question}`.
+1077|The second text input to concatenate.
+1078|This prompt must contain 'input' key.
+1079|Which sides to strip whitespace from.
+1080|Accept Message, JSON or Table as input
+1081|Call the Serper.dev Google Search API.
+1082|Content shown to the human for review.
+1083|CrewAI Task that will perform the task
+1084|Emit headings even for empty sections.
+1085|Forwards the input message, unchanged.
+1086|Generate text using Azure OpenAI LLMs.
+1087|Generate text using Ollama Local LLMs.
+1088|If true, the search will be recursive.
+1089|Maximum concurrency for loading files.
+1090|Maximum number of documents to return.
+1091|Perform various operations on a Table.
+1092|Rerank documents using the Cohere API.
+1093|Sequence where generation should stop.
+1094|Tail free sampling value. (Default: 1)
+1095|The DataFrame to convert to text rows.
+1096|The texts from which to extract links.
+1097|The value to filter by (e.g., 'CMIP').
+1098|Agent that uses tools via openai-tools.
+1099|Create or update knowledge in Langflow.
+1100|CrewAI Agent that will perform the task
+1101|Execute SQL queries on Google BigQuery.
+1102|Field name and description to the model
+1103|Include the original text in the output
+1104|Ingest and search documents in Astra DB
+1105|LLM used to generate file descriptions.
+1106|Language model that will run the agent.
+1107|Number of results to return from search
+1108|Sandboxed filesystem access for agents.
+1109|Select the knowledge to load data from.
+1110|Select the type of input to operate on.
+1111|Table Keyspace (or Astra DB namespace).
+1112|The URL of the Bedrock endpoint to use.
+1113|The data with texts to split in chunks.
+1114|The message to generate embeddings for.
+1115|The regular expression pattern to match
+1116|AWS region (e.g., us-east-1, eu-west-1).
+1117|Attributes to return separated by comma.
+1118|Combines data using different operations
+1119|Edge definition for the graph traversal.
+1120|Embedding model to use for vectorization
+1121|Endpoint of the Ollama API (Ollama only)
+1122|Generate embeddings using Cohere models.
+1123|Generate embeddings using Ollama models.
+1124|Generate embeddings using OpenAI models.
+1125|JSON String of the Service Account Token
+1126|Number of chunks to split the text into.
+1127|Pandas Kwargs to be passed to the agent.
+1128|Recursively load files from a directory.
+1129|Search and retrieve data from knowledge.
+1130|Second text to join with the first text.
+1131|Text to replace the search pattern with.
+1132|The input message to the language model.
+1133|The key (path) of the file in S3 bucket.
+1134|The text to validate against guardrails.
+1135|A component to listen for a notification.
+1136|Call Serp Search API with result limiting
+1137|Convert a Message object to a Data object
+1138|Display a chat message in the Playground.
+1139|Enter a query to run a similarity search.
+1140|Generate text using Google Generative AI.
+1141|Number of rows to return (for head/tail).
+1142|OCR engine to use. None will disable OCR.
+1143|Penalty for token presence in prior text.
+1144|Performs a search using the Wikidata API.
+1145|Return the result directly from the Tool.
+1146|Save the API response to a temporary file
+1147|Select a single data from a list of data.
+1148|Select the file format for local storage.
+1149|The column name to use for the operation.
+1150|The key in the Data object(s) to extract.
+1151|The maximum number of tokens to generate.
+1152|The operator to apply for filtering rows.
+1153|The primary text input for the operation.
+1154|Whether to treat search pattern as regex.
+1155|Works together with top-k. (Default: 0.9)
+1156|Adds/Removes Metadata Dictionary on inputs
+1157|Allow duplicate rows in the knowledge base
+1158|Authentication password for accessing HCD.
+1159|Authentication username for accessing HCD.
+1160|Clear definition of expected task outcome.
+1161|Connect to an MCP server to use its tools.
+1162|List of operations to perform on the data.
+1163|Maximum rows returned (capped at 1000000).
+1164|Metadata Field Info to be passed as input.
+1165|Optional time-to-live for the added texts.
+1166|Provide a name for the output data schema.
+1167|Select the DataFrame operation to perform.
+1168|Select the file format for AWS S3 storage.
+1169|The query parameters to append to the URL.
+1170|The value to populate the new column with.
+1171|Check text for unsafe or sensitive content.
+1172|Construct a CSV agent from a CSV and tools.
+1173|Country code, e.g. US, FR, DE. Default: US.
+1174|Default headers to use for the API request.
+1175|Default schema for unqualified table names.
+1176|Insert a new document if no match is found.
+1177|List of available model IDs to choose from.
+1178|Number of fields to be added to the record.
+1179|Object(s) to which Metadata should be added
+1180|Optimization preference for model selection
+1181|Separator used in the table (default: '|').
+1182|The URL of the AWS Bedrock endpoint to use.
+1183|The data with documents to split in chunks.
+1184|Whether the agent should have memory or not
+1185|Attributes to filter and corresponding value
+1186|Authentication token for accessing Astra DB.
+1187|If true, errors will not raise an exception.
+1188|Number of chat history messages to retrieve.
+1189|Oracle vector store with search capabilities
+1190|Perform various operations on a JSON object.
+1191|System prompt to guide the agent's behavior.
+1192|Text pattern to search for (supports regex).
+1193|The Database name for the Astra DB instance.
+1194|The resulting DataFrame after the operation.
+1195|Whether to enable tool calling in the model.
+1196|Construct a json agent from an LLM and tools.
+1197|Construct an SQL agent from an LLM and tools.
+1198|Number of files to process in each LLM batch.
+1199|Perform basic prompting with an OpenAI model.
+1200|Provide the path to the CSV file as pure text
+1201|The base URL of the API (IBM watsonx.ai only)
+1202|The message to pass if the condition is True.
+1203|The name of the tool to be passed to the LLM.
+1204|Whether the agent is allowed to execute code.
+1205|Base URL for the API. Leave empty for default.
+1206|Call the searchapi.io API with result limiting
+1207|Construct an agent from a Vector Store Router.
+1208|Filters a Data object based on a list of keys.
+1209|Generate embeddings using Azure OpenAI models.
+1210|If True, add metadata to the output DataFrame.
+1211|If True, the error will be added to the result
+1212|Limits token selection to top K. (Default: 40)
+1213|List of Input objects each with added Metadata
+1214|Make HTTP requests using URL or cURL commands.
+1215|Maximum seconds to wait for the agent's reply.
+1216|Numerical amount for the breakpoint threshold.
+1217|Provide the path to the JSON file as pure text
+1218|Select the export format to convert the input.
+1219|The Message object to convert to a Data object
+1220|The environment for the Astra DB API Endpoint.
+1221|The key to use for the DoclingDocument column.
+1222|The message to pass if the condition is False.
+1223|The operator to apply for comparing the texts.
+1224|Use first model as fallback when routing fails
+1225|Use {{variable}} syntax instead of {variable}.
+1226|Cassandra Vector Store with search capabilities
+1227|Creates a CrewAI Task and its associated Agent.
+1228|Generate embeddings using a specified provider.
+1229|Generate mock data for testing and development.
+1230|IBM Cloud IAM API key (api_key authentication).
+1231|If False, you must have transformers installed.
+1232|If true, the comparison will be case sensitive.
+1233|Maximum number of tokens for the HybridChunker.
+1234|Number of characters to overlap between chunks.
+1235|Remove control characters from the JSON string.
+1236|The Cohere API Key to use for the Cohere model.
+1237|The OpenAI API Key to use for the OpenAI model.
+1238|The instruction to use for the semantic search.
+1239|The operator to apply for comparing the values.
+1240|The tool description to be passed to the model.
+1241|The user prompt to use when invoking the model.
+1242|Use as a template to create your own component.
+1243|Create a prompt template with dynamic variables.
+1244|Generate embeddings using Amazon Bedrock models.
+1245|Generate embeddings using IBM watsonx.ai models.
+1246|If true, write and edit operations are disabled.
+1247|Normalize Unicode characters in the JSON string.
+1248|Prompt Component that uses LangChain Hub prompts
+1249|Regular expression to split sentences. Optional.
+1250|Select the file format for Google Drive storage.
+1251|Configure column behavior for the knowledge base.
+1252|Retrieves and stores chat messages from Astra DB.
+1253|Runs a language model given a specified provider.
+1254|The key of the context to store the notification.
+1255|The previous task in the sequence (for chaining).
+1256|The seed controls the reproducibility of the job.
+1257|The text query for similarity search on Wikidata.
+1258|Whether to enable structured output in the model.
+1259|A component that searches for tools using SearXNG.
+1260|Additional keyword arguments to pass to the model.
+1261|Detect and convert JSON/CSV strings automatically.
+1262|Generate embeddings using Oracle AI Vector Search.
+1263|Include form configuration metadata in the output.
+1264|Language code, e.g. en-US, fr, de. Default: en-US.
+1265|Loads and returns the content from uploaded files.
+1266|Returns the data from the selected knowledge base.
+1267|SQL query to execute. Each row becomes a document.
+1268|Select the timezone for the current date and time.
+1269|The Data object or list of Data objects to process
+1270|The name of the key in the Data object(s) to check
+1271|The timeout for requests to OpenAI completion API.
+1272|Whether to clean data before converting to string.
+1273|Access token sent as Authorization: Bearer <token>.
+1274|Comma-separated list of label IDs to filter emails.
+1275|Document Content Description to be passed as input.
+1276|Implementation of Graph Vector Store using Astra DB
+1277|Loads emails from Gmail using provided credentials.
+1278|Optional CA certificate for TLS connections to HCD.
+1279|Specify the image placeholder for markdown exports.
+1280|Split text into chunks based on specified criteria.
+1281|The project ID associated with the embedding model.
+1282|User password for the database (or Astra DB token).
+1283|Boolean flag indicating asynchronous task execution.
+1284|Chain for question-answering with self-verification.
+1285|Convert into raw string instead of using a template.
+1286|Default query parameters to use for the API request.
+1287|Learning rate for Mirostat algorithm. (Default: 0.1)
+1288|Operation mode: Store messages or Retrieve messages.
+1289|Optional search query to filter knowledge base data.
+1290|Refer to https://ollama.com/library for more models.
+1291|Split text trying to keep all related text together.
+1292|The project ID associated with the foundation model.
+1293|The value to search for in the specified query item.
+1294|A tool for running Python code in a REPL environment.
+1295|Comma-separated list of tags to add to the run trace.
+1296|Data objects as a DataFrame, with metadata as columns
+1297|Extract patterns from text using regular expressions.
+1298|Generate text using IBM watsonx.ai foundation models.
+1299|Generates a JSON string with your Google OAuth token.
+1300|Input OAuth Credentials file (e.g. credentials.json).
+1301|Maximum number of concurrent requests for the server.
+1302|Optional number of data to process in a single batch.
+1303|The embedding model to use for generating embeddings.
+1304|The new column name when renaming or adding a column.
+1305|The number of results per select statement to return.
+1306|Username for the database (leave empty for Astra DB).
+1307|Validate the JSON string to ensure it is well-formed.
+1308|Controls randomness, higher values increase diversity.
+1309|Convert between different types (Message, JSON, Table)
+1310|IBM Cloud IAM API key (ibm_iam_apikey authentication).
+1311|If enabled, checks the response status of the request.
+1312|Optional concurrency level for bulk delete operations.
+1313|Optional concurrency level for bulk insert operations.
+1314|The maximum number of retries to make when generating.
+1315|Transformed DataFrame resulting from semantic mapping.
+1316|Upload a CSV file to convert to a list of Data objects
+1317|Arguments passed to langchain-oracledb OracleDocLoader.
+1318|IBM watsonx.ai Project ID (required for IBM watsonx.ai)
+1319|Ingest into or retrieve from a Langflow knowledge base.
+1320|Load rows from Oracle Autonomous Database as documents.
+1321|Receives a payload from external systems via HTTP POST.
+1322|Routes an input message using LLM-based categorization.
+1323|The Google API Key to use for the Google Generative AI.
+1324|The key to use for the text column. Defaults to 'text'.
+1325|Descriptive text detailing task's purpose and execution.
+1326|Enable cURL mode to populate fields from a cURL command.
+1327|Executes SQL queries on SQLAlchemy-compatible databases.
+1328|Generate text using Anthropic's Messages API and models.
+1329|Number of most likely tokens to return at each position.
+1330|Number of top results to return from the knowledge base.
+1331|Optional namespace within HCD to use for the collection.
+1332|Retrieves and store chat messages from Apache Cassandra.
+1333|The AWS region where your Bedrock resources are located.
+1334|The input provided by the user for the agent to process.
+1335|Transforms the output of an LLM into a specified format.
+1336|Attributes to be returned by the tool separated by comma.
+1337|Call Google Search API and return results as a DataFrame.
+1338|Contact points for the database (or Astra DB database ID)
+1339|If True, the record will be appended to the notification.
+1340|Nucleus sampling parameter. Controls diversity of output.
+1341|Number of characters for the data to be considered large.
+1342|Penalty for repetitions in generated text. (Default: 1.1)
+1343|Remove special characters except alphanumeric and spaces.
+1344|Searches Google News via RSS. Returns clean article data.
+1345|Select the MCP Server that will be used by this component
+1346|The stock symbol to retrieve data for (e.g., AAPL, GOOG).
+1347|Whether to return log probabilities of the output tokens.
+1348|Add additional terms/keywords to augment search precision.
+1349|Add this placeholder between pages in the markdown output.
+1350|Chain to have a conversation and load context from memory.
+1351|Data API operation to run against the selected collection.
+1352|Embeddings model to use for semantic similarity. Required.
+1353|Export DoclingDocument to markdown, html or other formats.
+1354|If enabled, continues crawling even if some requests fail.
+1355|Optional headers required for connecting to Docling Serve.
+1356|Perform basic arithmetic operations on a given expression.
+1357|Query used for semantic retrieval against the memory base.
+1358|Read documents from Oracle Database using OracleDocLoader.
+1359|The default route to take when max iterations are reached.
+1360|Turns the ReAct CrewAI agent into a function-calling agent
+1361|Construct a Tool from a function that runs the loaded Flow.
+1362|Define the structure and data types for the model's output.
+1363|Document textual search terms to apply to the search query.
+1364|IBM Cloud IAM token endpoint used for the API-key exchange.
+1365|If enabled, automatically sets the encoding of the request.
+1366|If true, Data with no 'file_path' property will be ignored.
+1367|List of Data objects containing text and metadata to split.
+1368|Maximum count astrapy will scan to for ``Count Documents``.
+1369|Merge undersized chunks sharing the same relevant metadata.
+1370|One or multiple Data objects to transform into a DataFrame.
+1371|One word or phrase per line. Matching messages are blocked.
+1372|Returns the current date and time in the selected timezone.
+1373|Single document to insert, e.g. {"name": "Ada", "age": 36}.
+1374|Specific characters to remove (leave empty for whitespace).
+1375|Directory for caching docling analysis and LLM descriptions.
+1376|Disable only for development against a self-signed endpoint.
+1377|Dynamically create a Data with a specified number of fields.
+1378|Dynamically update or append data with the specified fields.
+1379|Enable a custom guardrail with your own validation criteria.
+1380|Enable/disable Mirostat sampling for controlling perplexity.
+1381|Field to use as the text content field for the vector store.
+1382|If True, it will output JSON regardless of passing a schema.
+1383|Include an Else output for cases that don't match any route.
+1384|JSON Query to filter the data. Used by Parse JSON operation.
+1385|LLM that will evaluate and select the most appropriate model
+1386|Multi-line system instruction for all rows in the DataFrame.
+1387|Optional dictionary of filters to apply to the search query.
+1388|Optional keyspace within Astra DB to use for the collection.
+1389|Optional list of metadata fields to include in the indexing.
+1390|The deployment space ID associated with the embedding model.
+1391|The maximum number of iterations for the conditional router.
+1392|A system message that helps set the behavior of the assistant
+1393|API endpoint for Ollama (shown only when Ollama is selected).
+1394|For large datasets, number of items to sample from head/tail.
+1395|If True, generate a list of instances of the provided schema.
+1396|JQ Query to filter the data. The input is always a JSON list.
+1397|Key that identifies the field to be used as the text content.
+1398|Loads documents from Google Drive using provided credentials.
+1399|Maximum waiting time for the document conversion to complete.
+1400|Name of the column where the model's response will be stored.
+1401|Optional. Falls back to the configured object storage bucket.
+1402|The characters to split on.
+If left empty defaults to "\n\n".
+1403|The deployment space ID associated with the foundation model.
+1404|The value to compare against (not used for boolean validator)
+1405|Accepts a DataFrame, a Data object, or a list of Data objects.
+1406|Additional model-specific parameters for fine-tuning behavior.
+1407|Optional list of metadata fields to exclude from the indexing.
+1408|Text to be passed as input and extract info from the CSV File.
+1409|The column name to merge Tables on. Must exist in both Tables.
+1410|These are the tools that the agent can use to help with tasks.
+1411|When enabled, this will automatically clean up your SQL query.
+1412|Boolean flag to determine whether to autodetect the collection.
+1413|Chain for question-answering querying sources from a retriever.
+1414|Check encoded text and disguised characters for known patterns.
+1415|Endpoint of the Ollama API. Defaults to http://localhost:11434.
+1416|Generates a Component from a Flow, with all of its inputs, and 
+1417|If enabled, filters out text/css content type from the results.
+1418|If true, the Server File Path will be deleted after processing.
+1419|Optional API key sent as x-api-key, for agents that require it.
+1420|Split text into chunks of a specified length based on language.
+1421|The LangChain Hub prompt to use, i.e., 'efriis/my-first-prompt'
+1422|The maximum number of characters in each chunk after splitting.
+1423|Use DoclingDocument chunkers to split the document into chunks.
+1424|Whether the agent is allowed to delegate tasks to other agents.
+1425|Paste a CSV string directly to convert to a list of Data objects
+1426|The Data object or list of Data objects to extract the key from.
+1427|The description of the tool; defaults to the Flow's description.
+1428|The query string used for searching. You can edit this manually.
+1429|A component to generate a notification to Get Notified component.
+1430|Block if a check fails or the model returns an incomplete answer.
+1431|Choose input for user messages or output for assistant responses.
+1432|Data to iterate over. Accepts DataFrame, Table, Data, or Message.
+1433|If enabled, the Docling pipeline will classify the pictures type.
+1434|If true, files with unsupported extensions will not be processed.
+1435|Memory Base whose captured conversation history will be searched.
+1436|Select your model provider or connect a Language Model component.
+1437|Size of the context window for generating tokens. (Default: 2048)
+1438|Stream the response from the model. Streaming works only in Chat.
+1439|The instructions to the language model for formatting the output.
+1440|The number of characters that overlap between consecutive chunks.
+1441|Compute selected form of similarity between two embedding vectors.
+1442|Configuration options for Astra Vectorize server-side embeddings. 
+1443|If `true` - guards tool calls. If `false`, skip policy validation.
+1444|The arithmetic expression to evaluate (e.g., '4*4*(33/22)+12-20').
+1445|Chain that interprets a prompt and executes python code to do math.
+1446|Execute a runnable. It will try to guess the input and output keys.
+1447|If True, disables streaming responses. Useful for batch processing.
+1448|Optional. Falls back to the AWS_ACCESS_KEY_ID environment variable.
+1449|Save content to a file in the specified format and return its path.
+1450|Type of merge: inner (intersection), outer (union), left, or right.
+1451|A second message to be ignored. Used as a workaround for continuity.
+1452|Data as a list of new Data, each having `text` formatted by Template
+1453|If true, will add a tool to the agent that returns the current date.
+1454|Load your data for chat context with Retrieval Augmented Generation.
+1455|One or more clear, well-defined and self-contained business policies
+1456|Optional dictionary defining the indexing policy for the collection.
+1457|Optional distance metric for vector comparisons in the vector store.
+1458|The context ID of the chat. Adds an extra layer to the local memory.
+1459|Allows either an embedding model or an Astra Vectorize configuration.
+1460|Controls randomness in output. Higher values make output more random.
+1461|Data as a single Message, with each input Data separated by Separator
+1462|Full MCP endpoint URL. Leave empty to build it from the instance URL.
+1463|Maximum number of results to return. Set to 0 to return every result.
+1464|OCR engine to use. Only available when pipeline is set to 'standard'.
+1465|Perform operations on Text, JSON, and Tables from a single component.
+1466|Run Python code with optional imports. Use print() to see the output.
+1467|Select one or more security guardrails to validate the input against.
+1468|Set 'Processing Concurrency' greater than 1 to enable multithreading.
+1469|String that joins all row texts when building the single Text output.
+1470|The number of dimensions the resulting output embeddings should have.
+1471|What the custom guardrail should look for. Evaluated by the LLM only.
+1472|A DataFrame built from each Data object's fields plus a 'text' column.
+1473|Comma-separated list of result columns to copy into document metadata.
+1474|Fetch content from one or more web pages, following links recursively.
+1475|Include chunk metadata (session_id, sender, timestamp, …) on each row.
+1476|List of documents to insert. Provide a JSON list, e.g. [{...}, {...}].
+1477|The column name to merge DataFrames on. Must exist in both DataFrames.
+1478|Upload a JSON file to convert to a Data object or list of Data objects
+1479|A DataFrame with all original columns plus the model's response column.
+1480|API endpoint URL for IBM WatsonX (shown only when WatsonX is selected).
+1481|An agent designed to utilize various tools seamlessly within workflows.
+1482|Default catalog for unqualified table names (for example iceberg_data).
+1483|Field name and value. When filled, it will not be generated by the LLM.
+1484|One term per line. Any whole-word match blocks under Offensive Content.
+1485|Optional. Falls back to the AWS_SECRET_ACCESS_KEY environment variable.
+1486|Represents a group of agents with tasks that are executed sequentially.
+1487|The maximum cumulative probability of tokens to consider when sampling.
+1488|The name of the collection within HCD where the vectors will be stored.
+1489|The number of news articles to retrieve (only applicable for get_news).
+1490|Whether to update existing rows when duplicate inserts are encountered.
+1491|A comma-separated list of modules to import globally, e.g. 'math,numpy'.
+1492|A string used to separate the two text inputs. Defaults to a whitespace.
+1493|An agent flow in this project (one with a chat input and a chat output).
+1494|Create a tool to get transactional data from DataStax Astra DB CQL Table
+1495|Enter one or more URLs to crawl recursively, by clicking the '+' button.
+1496|If connected, the model to use for running the picture description task.
+1497|Optional dictionary of additional parameters for the AstraDBVectorStore.
+1498|Specify the separator to use between multiple outputs in Message format.
+1499|Switch between writing new data into the knowledge base and querying it.
+1500|The maximum number of tokens to generate. Set to 0 for unlimited tokens.
+1501|Boolean flag to determine whether to ignore invalid documents at runtime.
+1502|Split text into semantically meaningful chunks using semantic similarity.
+1503|Stores a chat message or text into Langflow tables or an external memory.
+1504|The body to send with the request as a dictionary (for POST, PATCH, PUT).
+1505|The project ID associated with the foundation model (IBM watsonx.ai only)
+1506|Upload the JSON file containing Google Cloud service account credentials.
+1507|Whether to keep the separator in the output chunks and where to place it.
+1508|Convert Data objects into Messages using any {field_name} from input data.
+1509|If enabled, checks if the given 'Text Key' is present in the given 'Data'.
+1510|List of keys to select from the data. Only top-level keys can be selected.
+1511|Non-secret Oracle options such as schema, config_dir, and wallet_location.
+1512|Number of GPUs to use for computation. (Default: 1 on macOS, 0 to disable)
+1513|Post-retrieval model that re-scores results for optimal relevance ranking.
+1514|Sent out the Fail output when a request is out of scope. Keep it friendly.
+1515|Should the Agent fix errors when reading user input for better processing?
+1516|Specify the Embedding Model. Not required for Astra Vectorize collections.
+1517|The API Endpoint for the Astra DB instance. Supersedes database selection.
+1518|Agent that uses tools formatting instructions as xml to the Language Model.
+1519|Comma-separated list of tokens to signal the model to stop generating text.
+1520|Db2 database username. Use a Generic-typed global variable or direct input.
+1521|Define the agent's instructions, then enter a task to complete using tools.
+1522|Number of characters to extract from the end of text. Must be non-negative.
+1523|Overrides global provider settings. Leave blank to use your configured key.
+1524|Project ID for IBM WatsonX workspace (shown only when WatsonX is selected).
+1525|Routes an input message to a corresponding output based on text comparison.
+1526|Uses Docling to process input documents running the Docling models locally.
+1527|Embedding model name (used only for cache keying, not for actual embedding).
+1528|Generate embeddings for a given message using the specified embedding model.
+1529|If enabled, inserts stop at the first error; otherwise errors are collected.
+1530|Name of the DB2 table to store vectors (will be created if it doesn't exist)
+1531|Replace sensitive values with a label, a token, or a partially hidden value.
+1532|Searches Google Drive files using provided credentials and query parameters.
+1533|The name of the collection within Astra DB where the vectors will be stored.
+1534|The name of the table (or Astra DB collection) where vectors will be stored.
+1535|A list containing exactly two data objects with embedding vectors to compare.
+1536|Define and execute a Python function that returns a Data object or a Message.
+1537|Flag to enable body search. This must be enabled BEFORE the table is created.
+1538|One URL prefix per line. Non-matching http(s) URLs raise the injection score.
+1539|Path to the directory to load files from. Defaults to current directory ('.')
+1540|Synthetic DataFrame generated by the LLM based on the schema or example data.
+1541|Tool to run hybrid vector and metadata search on DataStax Astra DB Collection
+1542|Add your own AI checking criteria. Requires an AI checking method and a model.
+1543|Choose search mode: Web (DuckDuckGo), News (Google News), or RSS (Feed Reader)
+1544|File name without extension (e.g. 'report'). Extension is added automatically.
+1545|Optional dictionary of additional keyword arguments for the Cassandra cluster.
+1546|The characters to split on.
+If left empty defaults to ["\n\n", "\n", " ", ""].
+1547|Uses an LLM to generate structured data. Ideal for extraction and consistency.
+1548|A comma-separated list of modules to import globally, e.g. 'math,numpy,pandas'.
+1549|Add a 'fallback' output taken when the answer arrives after the timeout window.
+1550|Generate fake embeddings, useful for initial testing and connecting components.
+1551|Pass to a prompt template to include formatting instructions for LLM responses.
+1552|Run inference with this temperature. Must by in the closed interval [0.0, 1.0].
+1553|Aggregated DataFrame generated by the LLM following the specified output schema.
+1554|Checks to run. Connect a model for semantic coverage beyond known rule patterns.
+1555|City, state, or country for location-based news. Leave blank for keyword search.
+1556|If True, the vector store will be cached for the current build of the component.
+1557|Data to append or update the existing data with. Only top-level keys are checked.
+1558|Data to ingest into the vector store. Accepts Data objects, DataFrame, and Table.
+1559|JSON string of token IDs to bias or suppress (e.g., {"1003": -100, "1004": 100}).
+1560|Number of characters to extract from the beginning of text. Must be non-negative.
+1561|Presto SQL to run, for example SELECT * FROM iceberg_data.sales.orders LIMIT 100.
+1562|Presto engine host name (from the watsonx.data engine details, without https://).
+1563|Concatenate two text sources into a single text chunk using a specified delimiter.
+1564|Controls the balance between coherence and diversity of the output. (Default: 5.0)
+1565|Perform various text processing operations including text-to-DataFrame conversion.
+1566|The remote agent's advertised card. Appears when you enter a URL that returns one.
+1567|Upload a resume and an Agent generates a single-page portfolio website (HTML/CSS).
+1568|Whether to include all metadata in the output. If false, only content is returned.
+1569|Include the ``$similarity`` score on each returned document (vector searches only).
+1570|JSON Query to filter the data. Used by Path Selection and JQ Expression operations.
+1571|Maximum time in seconds for the ingestion subprocess. Increase for large file sets.
+1572|Merges multiple flows into one. Running this triggers all connected upstream flows.
+1573|Optional concurrency level for bulk insert operations that overwrite existing data.
+1574|Overrides global provider settings. Leave blank to use your pre-configured API Key.
+1575|Retriever that uses a vector store and an LLM to generate the vector store queries.
+1576|The maximum depth of edges to traverse. (when using 'Traversal' or 'MMR traversal')
+1577|Describe the tool to LLM. Add any information that can help the LLM to use the tool.
+1578|JSON string containing OAuth 2.0 access token information for service account access
+1579|List of tools/resources limited for task execution. Uses the Agent tools by default.
+1580|One of: WORLD, NATION, BUSINESS, TECHNOLOGY, ENTERTAINMENT, SCIENCE, SPORTS, HEALTH.
+1581|Split text based on natural language boundaries, optimized for a specified language.
+1582|Stores or retrieves stored chat messages from Langflow tables or an external memory.
+1583|The external memory to store the message. If empty, it will use the Langflow tables.
+1584|The session ID of the chat. If empty, the current session ID parameter will be used.
+1585|The structured data or text messages to filter or transform using a lambda function.
+1586|Boolean flag to determine whether to delete the collection before creating a new one.
+1587|Retrieve messages from an external memory. If empty, it will use the Langflow tables.
+1588|Routes the input to the most appropriate LLM based on OpenRouter model specifications
+1589|The DataFrame whose column (specified by 'column_name') we'll treat as text messages.
+1590|Uses Docling to process input documents connecting to your instance of Docling Serve.
+1591|When multiple files are being processed, the number of files to process concurrently.
+1592|Enable to select from global variables (shows globe icon). Disables multiline editing.
+1593|Optional natural language instructions to guide the synthetic data generation process.
+1594|Pause the flow for a human-in-the-loop (HITL) decision and route on the chosen action.
+1595|Connect any upstream component outputs here. All will run when this component executes.
+1596|Db2 server hostname or IP address. Use a Generic-typed global variable or direct input.
+1597|Generic Template for structured output formatting. Valid only with Structured response.
+1598|The maximum number of attempts the agent can make to complete its task before it stops.
+1599|Base URL of the watsonx.data instance (the /api/v2/mcp/ path is appended automatically).
+1600|Define the structure of data to generate. Specify column names, descriptions, and types.
+1601|Endpoint of the Anthropic API. Defaults to 'https://api.anthropic.com' if not specified.
+1602|File types to load. Select one or more types or leave empty to load all supported types.
+1603|Maximum time to wait for a tool call. Set to 0 to use the system-configured MCP timeout.
+1604|Number of threads to use during computation. (Default: detected for optimal performance)
+1605|Configuration mode for setting up the Cassandra table, with options like 'Sync' or 'Off'.
+1606|The Google Drive file ID to read. The file must be shared with the service account email.
+1607|Controls randomness. Lower values are more deterministic, higher values are more creative.
+1608|Paste or preview your JSON here to explore its structure and select a path for extraction.
+1609|This input stores the chat history, allowing the agent to remember previous conversations.
+1610|Controls known jailbreak and prompt injection checks in AI checks mode. Higher is stricter.
+1611|Enable SSL/TLS encryption for database connection. Recommended for production environments.
+1612|Select the operation to perform. The matching fields and output appear once you choose one.
+1613|The input Table to operate on. Connect multiple Tables for merge or concatenate operations.
+1614|When enabled, only the text column is included in the output. Metadata columns are removed.
+1615|Your organization names, one per line. Detect labels such as 'Acme Confidential'. Optional.
+1616|Export processed documents to Markdown format. Only available when advanced mode is enabled.
+1617|Implementation of Vector Store using Hyper-Converged Database (HCD) with search capabilities
+1618|Select or connect the model used to check your text. Required for either AI checking method.
+1619|Each task must have a description, an expected output and an agent responsible for execution.
+1620|How far back the model looks to prevent repetition. (Default: 64, 0 = disabled, -1 = num_ctx)
+1621|Load a CSV file, CSV from a file path, or a valid CSV string and convert it to a list of Data
+1622|Text input; value will be in 'text' attribute of Data object. Empty text entries are ignored.
+1623|The character(s) to use as a delimiter when splitting text.
+Defaults to "\n\n" if left empty.
+1624|Decode using top-k sampling: consider the set of top_k most probable tokens. Must be positive.
+1625|Fields to include (``1``/``true``) or exclude (``0``/``false``), e.g. {"name": 1, "email": 1}.
+1626|One phrase per line. Include synonyms and plurals. Short replies such as 'thanks' are allowed.
+1627|Use deployment settings, check when rules allow, or check every message including rule blocks.
+1628|Uses an LLM to generate a function for filtering or transforming structured data and messages.
+1629|Whether to include embeddings in the output. Only applicable if 'Include Metadata' is enabled.
+1630|Allow listed topics, block listed topics, or both. Topics match words and phrases, not meaning.
+1631|Block flagged text, remove supported findings (sanitize), or allow it unchanged (pass_through).
+1632|Enter a valid JSON string (object or array) to convert to a Data object or list of Data objects
+1633|Input DataFrame to aggregate. The schema is automatically inferred from column names and types.
+1634|Input DataFrame to transform. The schema is automatically inferred from column names and types.
+1635|Internal subdomain names, one per line. For example, 'corp' identifies corp.acme.com. Optional.
+1636|Model name of the tokenizer to use with the HybridChunker when OpenAI is chosen as a tokenizer.
+1637|Runs an LLM on each row of a DataFrame column. If no column is specified, all columns are used.
+1638|Validates input text against multiple security and safety guardrails using LLM-based detection.
+1639|Your Google Cloud Platform service account JSON key as a secret string (complete JSON content).
+1640|All rows combined into a single text, each row formatted by the template and separated by `sep`.
+1641|Configuration mode for setting up the vector store, with options like 'Sync', 'Async', or 'Off'.
+1642|Internal calls another agent flow in this project. External calls a remote A2A agent by its URL.
+1643|Natural language instructions describing how to aggregate the input data into the output schema.
+1644|Natural language instructions describing how to transform each input row into the output schema.
+1645|Optional directory for persisting file maps across runs. If empty, maps are kept in memory only.
+1646|Findings above this risk level use the selected action below, until Strictness requires blocking.
+1647|Non-secret arguments passed to python-oracledb connect(), such as config_dir and wallet_location.
+1648|Organization domains, one per line, to identify corporate email and internal addresses. Optional.
+1649|The name of the sender. Might be AI or User. If empty, the current sender parameter will be used.
+1650|Choices the human can pick; each becomes a branch output. Pick from the list or type a custom one.
+1651|Output format: 'csv', 'json', 'txt', 'html', 'excel', 'markdown'. Overrides pre-configured format.
+1652|The operator to apply for comparing the values. 'boolean validator' treats the value as a boolean.
+1653|Your Azure endpoint, including the resource. Example: `https://example-resource.azure.openai.com/`
+1654|Configuration mode for setting up the Cassandra table, with options like 'Sync', 'Async', or 'Off'.
+1655|Higher strictness blocks lower-risk findings. Advanced deployment settings can override this value.
+1656|Path (or https URL) of the CA bundle for watsonx.data software instances. Leave empty on IBM Cloud.
+1657|Route Data object(s) based on a condition applied to a specified key, including boolean validation.
+1658|Select LLM for Policies buildtime. We recommend using Anthropic Claude-Sonnet series for this task.
+1659|Select if you want to use models that can work with tools. If yes, only those models will be shown.
+1660|Template to convert Data to Text. If left empty, it will be dynamically set to the Data's text key.
+1661|The input DataFrame to operate on. Connect multiple DataFrames for merge or concatenate operations.
+1662|When this parameter is activated, the search query parameter will be used to search the collection.
+1663|Labels such as 'Confidential', one per line. Organization names, when configured, must precede them.
+1664|Maximum number of tokens to generate. Set to 0 for no explicit limit. Field name varies by provider.
+1665|Optional provider to use with Model Name Override. Leave blank to use the selected model's provider.
+1666|When this parameter is activated, Astra DB Vectorize method will be used to generate the embeddings.
+1667|DEPRECATED: Attributes to filter and description to the model. Add ! for mandatory (e.g: !customerId)
+1668|Minimum similarity score threshold for search results. (when using 'Similarity with score threshold')
+1669|Model name of the tokenizer to use with the HybridChunker when Hugging Face is chosen as a tokenizer.
+1670|Represents a group of agents, defining how they should collaborate and the tasks they should perform.
+1671|If True, generate multiple instances of the provided schema for each input row concatenating all them.
+1672|Convert a JSON file, JSON from a file path, or a JSON string to a Data object or a list of Data objects
+1673|Maximum number of characters kept from each scraped page or feed field. Set to 0 to keep the full text.
+1674|Optional override message that will replace both the Input and Output Value for all routes when filled.
+1675|The left (primary) Table for merge operations. In a left merge, all rows from this table are preserved.
+1676|The number of dimensions the resulting output embeddings should have. Only supported by certain models.
+1677|Boolean flag to determine whether to create a vector index. Check `Controls` to use advanced parameters.
+1678|Define the dynamic form fields. Each row creates a new input field that can connect to other components.
+1679|Generate text using Amazon Bedrock LLMs with the modern Converse API for improved conversation handling.
+1680|The full file path as a string (e.g., '/path/to/file.csv'). Do not pass search results or other objects.
+1681|An example of performing a vector search against data in a Knowledge Base to retrieve relevant documents.
+1682|Include properties such as headers, status_code, response_headers, and redirection_history in the output.
+1683|The sender of the message. Might be Machine or User. If empty, the current sender parameter will be used.
+1684|Generate new guard code or apply existing guard. Review generated files in the details panel on the right.
+1685|Paste a curl command to populate the fields. This will fill in the dictionary fields for headers and body.
+1686|Research a company and extract a structured profile (pricing, plans, market, features, target industries).
+1687|The character to split on. Use \n for newline. Examples: \n\n for paragraphs, \n for lines, . for sentences
+1688|The left (primary) DataFrame for merge operations. In a left merge, all rows from this table are preserved.
+1689|The right (secondary) Table for merge operations. In a right merge, all rows from this table are preserved.
+1690|Upload a text file and analyze its sentiment two ways: a direct analysis and a summarize-then-analyze pass.
+1691|If enabled, uses asynchronous loading which can be significantly faster but might use more system resources.
+1692|Store Data uploads the parsed text content of each file. Store Original File uploads each source file as is.
+1693|The name of the DataFrame column to treat as text messages. If empty, all columns will be formatted in TOML.
+1694|The access key for your AWS account.Usually set in Python code as the environment variable 'AWS_ACCESS_KEY_ID'.
+1695|The right (secondary) DataFrame for merge operations. In a right merge, all rows from this table are preserved.
+1696|Retrieves the text content of a file given its path. Connect to an agent as a tool so it can read file contents.
+1697|Schema Validation: Define the structure and data types for structured output. No validation if no output schema.
+1698|The access key for your AWS account. Usually set in Python code as the environment variable 'AWS_ACCESS_KEY_ID'.
+1699|Generate mock data for user defined schema. If a dataframe is provided, the component will generate similar rows.
+1700|Iterates through Data or Message objects, processing items individually and aggregating results from loop inputs.
+1701|The language of the text. Default is "English". Supports multiple languages for better text boundary recognition.
+1702|The template to use for formatting the data. It can contain the keys {text}, {data} or any other key in the Data.
+1703|If true, adds a zero-config arithmetic calculator tool to the agent (safe: only +, -, *, /, ** operators via AST).
+1704|Define the categories for routing. Each row should have a route/category name and optionally a custom output value.
+1705|Provide example DataFrame to learn from and generate similar data. Only the first 50 rows will be used as examples.
+1706|The name of the profile to use from your ~/.aws/credentials file. If not provided, the default profile will be used.
+1707|The secret key for your AWS account. Usually set in Python code as the environment variable 'AWS_SECRET_ACCESS_KEY'.
+1708|The Google Drive folder ID where the file will be uploaded. The folder must be shared with the service account email.
+1709|Define the structure for the tool parameters. Describe the parameters in a way the LLM can understand how to use them.
+1710|Enable caching of MCP Server and tools to improve performance. Disable to always fetch fresh tools and server updates.
+1711|Fetch model specifications from OpenRouter API for enhanced routing decisions. If false, only model names will be used.
+1712|Extract a specific key from a Data object or a list of Data objects and return the extracted value(s) as Data object(s).
+1713|Method to determine breakpoints. Options: 'percentile', 'standard_deviation', 'interquartile'. Defaults to 'percentile'.
+1714|Optional model name to use instead of the selected model. Can be set from a global variable for runtime model selection.
+1715|Analyze the entire input dataframe at once and generate a new dataframe following the instruction and the required schema
+1716|Generates targeted SEO keywords based on product information, pain points, and customer profiles for strategic marketing.
+1717|This template iterates over search results using LoopComponent and translates each result into Portuguese automatically. 🚀
+1718|Cleans the messy and sometimes incorrect JSON strings produced by LLMs so that they are fully compliant with the JSON spec.
+1719|The template to use for formatting the data. It can contain the keys {text}, {sender} or any other key in the message data.
+1720|https://docs.oracle.com/en/database/oracle/oracle-database/23/vecse/utl_to_embedding-and-utl_to_embeddings-dbms_vector.html
+1721|Run Data API operations (find, filter, insert, update, delete, count) against an Astra DB collection using astrapy directly.
+1722|The cumulative probability cutoff for token selection. Lower values mean sampling from a smaller, more top-weighted nucleus.
+1723|Three Agents plan a trip: research the destination (core Web Search), draft the itinerary (URL), and budget it (Calculator).
+1724|Enable SSL certificate verification for HTTPS connections. Disable only for development/testing with self-signed certificates.
+1725|The template for formatting each row. Use placeholders matching column names in the DataFrame, for example '{col1}', '{col2}'.
+1726|Update operator document, e.g. {"$set": {"status": "archived"}}. Must use update operators (``$set``, ``$inc``, ``$push`` ...).
+1727|Number of new synthetic rows to generate. When an Input Table is provided, the generated rows are appended to the original data.
+1728|The remote A2A agent's URL. Paste either its base URL or its /.well-known/agent-card.json card URL; both resolve the same agent.
+1729|Append to file if it exists (only for Local storage with plain text formats). Not supported for cloud storage (AWS/Google Drive).
+1730|Create a chatbot that saves and references previous messages, enabling the model to maintain context throughout the conversation.
+1731|Path to the file to read. Used when component is called as a tool. If not provided, will use the uploaded file from 'path' input.
+1732|Optional embedding model name to use instead of the selected model. Can be set from a global variable for runtime model selection.
+1733|Call an A2A (Agent-to-Agent) agent and return its reply. Pick an agent flow in this project, or point at a remote agent by its URL.
+1734|Executes another flow from within the same project. Can also be used as a tool for agents. 
+ **Select a Flow to use the tool mode**
+1735|Returns matching memory chunks. Scoped to the current session by default; turn 'Filter by Session' off to retrieve across sessions.
+1736|If enabled, only crawls URLs within the same domain as the root URL. This helps prevent the crawler from going to external websites.
+1737|Paste the content of your .env file directly, since contents are sensitive, using a Global variable set as 'password' is recommended
+1738|Presto user. For api_key authentication use ibmlhapikey (instance owner) or ibmlhapikey_<IBM Cloud account email> for a specific user.
+1739|Give an Agent access to IBM watsonx.data document libraries, document sets, and data assets through the watsonx.data remote MCP server.
+1740|Runs OpenDsStar docling-based ingestion to generate searchable file descriptions. Connect output to a vector store's Ingest Data input.
+1741|Augment the input dataframe adding new columns defined in the input schema. Rows are processed independently and in parallel using LLMs.
+1742|Define the structure of data to generate. Specify column names, descriptions, and types. Used only when input DataFrame is not provided.
+1743|Optional: Password for password-protected SSL certificate/keystore. Only required if your certificate file is encrypted with a password.
+1744|Retrieve long-term memory from a Memory Base attached to this workflow. When 'Filter by Session' is off, queries run across all sessions.
+1745|The name of the embeddings provider API key stored on Astra. If set, it will override the 'ProviderKey' in the authentication parameters.
+1746|Optional task ID from a previous Docling Serve upload. If provided, file input is ignored and the component polls for this task's results.
+1747|A starter Agent with tools: core Web Search (find info) and URL (read a page), plus the Agent's built-in calculator and current-date tools.
+1748|Number of chat completions to generate for each prompt. Note that the API may not return the full n completions if duplicates are generated.
+1749|Keep original input columns in the output. If disabled, only newly generated columns are returned. This is ignored if As List is set to True.
+1750|Name of the Db2 database. Use a Generic-typed global variable or direct input. Credential-typed variables are not allowed for database names.
+1751|Optional dictionary of additional options. See https://github.com/docling-project/docling-serve/blob/main/docs/usage.md for more information.
+1752|The base URL of the OpenAI API. Defaults to https://api.openai.com/v1. You can change this to use other APIs like JinaChat, LocalAI and Prem.
+1753|Uses [yfinance](https://pypi.org/project/yfinance/) (unofficial package) to access financial data and market information from Yahoo! Finance.
+1754|Connect to Google's generative AI embeddings service using the GoogleGenerativeAIEmbeddings class, found in the langchain-google-genai package.
+1755|Filter a list of data items based on a specified key, filter value, and comparison operator. Check advanced options to select match comparison.
+1756|Determine how your content is matched: Vector finds semantic similarity, and Hybrid Search (suggested) combines both approaches with a reranker.
+1757|Output Format. Use 'Text' to extract the text from the HTML, 'Markdown' to parse the HTML into Markdown format, or 'HTML' for the raw HTML content.
+1758|Sort specification -- ``1`` ascending, ``-1`` descending. Use ``$vector`` or ``$vectorize`` for vector search, e.g. {"$vectorize": "search query"}.
+1759|Convert a DataFrame into plain text following a specified template. Each column in the DataFrame is treated as a possible template key, e.g. {col_name}.
+1760|MongoDB-style filter, e.g. {"status": "active", "age": {"$gte": 18}}. Leave empty to match all documents (not recommended for delete/update operations).
+1761|The session key for your AWS account. Only needed for temporary credentials. Usually set in Python code as the environment variable 'AWS_SESSION_TOKEN'.
+1762|Ask a research question and get a thorough, synthesized answer. Three Agents collaborate: a planner, a web researcher (core Web Search), and a synthesizer.
+1763|Data object with a 'file_path' property pointing to server file or a Message object with a path to the file. Supercedes 'Path' but supports same file types.
+1764|Tool to run for the Response output. In Tool Mode every server tool is exposed to the Agent. Use the refresh button to re-read the tool list from the server.
+1765|Specify how images are exported in the output. Placeholder will replace the images with a string, whereas Embedded will include them as base64 encoded images.
+1766|Use variables within curly brackets to extract column values for DataFrames or key values for Data.For example: `Name: {Name}, Age: {Age}, Country: {Country}`
+1767|Execute a SQL query on an IBM watsonx.data Presto engine (Iceberg lakehouse, federated sources, Confluent Tableflow tables) and return the result as a DataFrame.
+1768|Component for building tool protection code from textual business policies and instructions.
+Powered by [ALTK ToolGuard](https://github.com/AgentToolkit/toolguard )
+1769|AI checks preserves the original Guardrails behavior. Rules + AI combines known patterns with one AI check. Rules only checks known patterns and has limited coverage.
+1770|The maximum length of each chunk. Text is first split by separator, then chunks are merged up to this size. Individual splits larger than this won't be further divided.
+1771|A three-step chain of specialist Agents (Innovator -> Analyst -> Product Manager) that turns a market trend into a product concept, an evaluation, and a development plan.
+1772|Optional dictionary of additional parameters for the retrieval strategy. Please see https://datastax.github.io/graph-rag/reference/graph_retriever/strategies/ for details.
+1773|Additional instructions for LLM-based categorization. These will be added to the base prompt. Use {input_text} for the input text and {routes} for the available categories.
+1774|Enable advanced document processing and export with Docling for PDFs, images, and office documents. Note that advanced document processing can consume significant resources.
+1775|System Prompt: Initial instructions and context provided to guide the agent's behavior. Supports dynamic placeholders: {current_date}, {model_name}, {optional_user_context}.
+1776|Write blog posts from web references using an Agent. URL fetches references, you provide the topic via Chat Input, and the Agent writes a grounded post. Core components only.
+1777|Table with all original columns (already chunked / processed). Accepts Message, Data, or DataFrame. If Message or Data is provided, it is converted to a DataFrame automatically.
+1778|When this parameter is provided, documents in the target collection with metadata field values matching the input metadata field value will be deleted before new data is loaded.
+1779|Path to SSL certificate file (.crt, .pem, .cer) or URL to download certificate. Supports local paths (relative/absolute) and URLs (https://...). Required when SSL/TLS is enabled.
+1780|bearer_token: pass an access token as-is (IBM Cloud IAM token, or a CPD/Zen token for software). ibm_iam_apikey: exchange an IBM Cloud API key for a token before each connection.
+1781|HTTP headers to include with MCP server requests. Useful for authentication (e.g., Authorization header). These headers override any headers configured in the MCP server settings.
+1782|api_key: IBM Cloud IAM API key as the password for user ibmlhapikey (watsonx.data on IBM Cloud). basic: user name and password your watsonx.data instance expects (software / CPD).
+1783|Maximum time to wait for tool execution before timing out. Supports decimal values for sub-second timeouts (e.g., 0.01 for 10ms). Set to 0 to use the system-configured MCP timeout.
+1784|Ask questions about your own document using a built-in Knowledge Base (RAG). File ingests into the KB; an Agent answers from retrieved context. No external vector database required.
+1785|If True, the vector store will be cached for the current build of the component. This is useful for components that have multiple output methods and want to share the same vector store.
+1786|Aggregate recent content on a topic: Web Search (News) gathers articles, a Batch Run summarizes each one, and an Agent curates them into a clean digest that is shown and saved to a file.
+1787|Describe a Langflow component and an Agent generates its Python code. The Agent fetches Langflow reference code on demand with a URL tool and remembers the conversation with a Memory tool.
+1788|If enabled, only memories from the current session will be retrieved. Disable to allow retrieval across every session ingested into this Memory Base (useful for cross-conversation recall).
+1789|Converts one or multiple Data objects into a DataFrame. Each Data object corresponds to one row. Fields from `.data` become columns, and the `.text` (if present) is placed in a 'text' column.
+1790|IBM Db2 Vector Store with search capabilities. Use Generic-typed global variables for connection parameters (database, hostname, username). Only password should use Credential-typed variables.
+1791|JSON object passed as the arguments of the selected tool when the Response output is used directly (for example {"topic": "orders"}). Ignored in Tool Mode, where the Agent supplies the arguments.
+1792|Transcribe a meeting (custom AssemblyAI Transcriber using the current API), summarize it with a Summary Agent, and chat about it with a Chat Agent grounded in the transcript and backed by Memory. 
+1793|Maximum number of model calls the agent can make before stopping (maps to `ModelCallLimitMiddleware.run_limit` on the create_agent path). Must be at least 1 — it is a safety cap, never 'unlimited'.
+1794|Upload an image; a vision Language Model classifies its sentiment (positive/negative/neutral) and briefly describes it. The Language Model receives the image natively, so the model actually sees it.
+1795|A Price Deal Finder Agent: searches the web (incl. coupon news), reads listings (URL), computes savings (Calculator) and remembers your watchlist (Memory), returning the best deals as a structured table.
+1796|Additional keyword arguments to pass to the model. Only used by providers that support this parameter (e.g. OpenAI, Google Generative AI). Ignored for providers that do not include it in their parameter mapping.
+1797|Calculate the optimal monthly SaaS subscription price from costs, margin, and subscriber estimate. The Agent uses its built-in calculator and can optionally query the user's own database via a SQL Database tool. 
+1798|Define the structure for the tool parameters. Describe the parameters in a way the LLM can understand how to use them. Add the parameters respecting the table schema (Partition Keys, Clustering Keys and Indexed Fields).
+1799|The content to save. Accepts a DataFrame, Data, or Message object directly. Can also accept a JSON string (e.g. '[{"col1": "val1"}]') which will be parsed into a DataFrame, or plain text which will be saved as a Message.
+1800|A generic three-step agent pipeline: a Research Agent (Web Search) gathers information, an Analysis Agent analyzes it, and a Writer Agent synthesizes both into a final report. Generalized from the finance-specific original;
+1801|Generate text using Amazon Bedrock LLMs with the legacy ChatBedrock API. This component is deprecated. Please use Amazon Bedrock Converse instead for better compatibility, newer features, and improved conversation handling.
+1802|Enable bulk insert using executemany() for better performance. When enabled, all documents are inserted in a single batch (unlimited chunk size). When disabled, uses row-by-row insert with execute() (chunk size: 1 document per call).
+1803|Self-contained hybrid RAG on one canvas: an ingestion branch (File -> Split Text -> Astra DB) to populate the collection, and a search branch (semantic vector + keyword lexical, reranked) where an Agent extracts the lexical keywords.
+1804|Natural language instructions for how to filter or transform the data using a lambda function. Examples: 'Filter the data to only include items where status is active', 'Convert the text to uppercase', 'Keep only first 100 characters'
+1805|Whether to follow HTTP redirects. WARNING: Enabling redirects may allow SSRF bypass attacks where a public URL redirects to internal resources. Only enable if you trust the target server. See OWASP SSRF Prevention Cheat Sheet for details.
+1806|A general social-media research Agent: it searches the web (core Web Search) and reads pages (core URL tool) to gather current information, then completes your task. Replaces the Apify google-search and TikTok scraper tools with core tools.
+1807|Adds tool-execution retry as a safety net. `create_agent` already feeds tool-call validation errors back to the LLM automatically; this flag layers `ToolRetryMiddleware` on top so transient tool runtime failures are retried (max 2 retries).
+1808|Generate an engaging tweet or Twitter thread from a project brief. An Agent (replacing the Language Model) follows the Prompt's style guidelines as its system prompt and writes from the Chat Input context. Core components only, bundle-free.
+1809|A response received after this window is rerouted to the fallback path (when enabled) instead of the chosen action. The run stays paused until a response arrives or the server's suspended-run deadline expires it. Set to 0 to wait indefinitely.
+1810|Limits the number of highest probability vocabulary tokens to consider. Only sent to Anthropic models, the ones that document it for the Converse API; it is ignored for the others. Use 'Additional Model Fields' to pass a provider's own equivalent.
+1811|Upload a financial report; an Agent extracts key metrics (Gross Profit, EBITDA, Net Income, ...) as structured output. Core components only - the Agent's built-in structured output replaces the Structured Output component; File replaces pasted text.
+1812|The Python code to execute. By default only modules specified in Global Imports can be used. When a sandbox backend is configured (LANGFLOW_SANDBOX_BACKEND), the code runs in an isolated microVM instead and may import any module available in the sandbox image.
+1813|An alternative to the Astra Authentication that passes an API key for the provider with each request to Astra DB. This may be used when Vectorize is configured for the collection, but no corresponding provider secret is stored within Astra's key management system.
+1814|Optional JSON object of user-metadata key/value pairs. Only chunks whose source_metadata matches every key are returned (e.g. {"tag": "invoice"} or {"tag": ["invoice", "audit"]} for OR-of-values). Backends without native filtering apply the match client-side after retrieval.
+1815|Generate an Instagram caption + image prompt from a topic. A two-Agent chain: a Caption Agent researches the topic with the core Web Search tool (DuckDuckGo, no key) and writes the caption, then an Image Agent appends a matching image prompt. No prompt templates, bundle-free, all on the Agent core.
+1816|Controls how many 'clicks' away from the initial page the crawler will go:
+- depth 1: only the initial page
+- depth 2: initial page + all pages linked directly from it
+- depth 3: initial page + direct links + links found on those direct link pages
+Note: This is about link traversal, not URL path depth.
+1817|SECURITY WARNING: Enabling this allows the agent to execute arbitrary Python code on the server, which can lead to remote code execution vulnerabilities. Only enable this if you fully trust the input sources and understand the security implications. When disabled, the agent can still analyze CSV data but cannot execute custom Python code.
+1818|# 📥 1) Ingestion - run once
+
+Populate the collection so Search has data.
+
+1. **File** - upload your document (e.g. the sample `.md`).
+2. **Split Text** - chunks it (size 1000, overlap 100).
+3. **Astra DB** - set Token + Database + Collection, then press ▶ on this Astra DB node to write the chunks (Vectorize embeds + lexically indexes on write).
+1819|Sub-folder inside your sandboxed workspace. Leave empty to use the root of the workspace.
+
+Resolves under <BASE_DIR>/shared/<sub_path>/ when AUTO_LOGIN=True (single-user / desktop) or under <BASE_DIR>/users/<your-namespace>/<sub_path>/ when AUTO_LOGIN=False (multi-user, per-user isolation). BASE_DIR is operator-controlled via LANGFLOW_FS_TOOL_BASE_DIR.
+1820|Legacy toggle. The '> Entering new ... chain' / '> Finished chain.' markers it used to print to stdout are now gated on the LANGCHAIN_VERBOSE environment variable (off by default); set LANGCHAIN_VERBOSE=true to emit them. Toggling this input on its own no longer attaches LangChain's stdout handler. Agent steps remain visible in the UI regardless of this setting.
+1821|Save data to a file. Arguments: 'input' — the content to save (pass a DataFrame directly, or a JSON string for tabular data, or plain text for messages); 'file_name' — the name to save as, without extension (e.g. 'report'); 'file_format' — output format: 'csv', 'json', 'txt', 'html', 'excel', 'markdown' (optional). Returns a confirmation with the file path or URL.
+1822|Optional JSON object of user metadata applied to every chunk produced by this run (e.g. {"tag": "invoice", "year": "2026"}). Same shape as the upload modal Metadata section so chunks browser filters + Knowledge retrieval metadata_filter work uniformly across upload, folder, and flow-driven ingestion. Malformed JSON is ignored with a warning rather than failing the run.
+1823|# 🔎 2) Search
+
+1. **Chat Input** - your question goes to Astra DB as the semantic query.
+2. **Agent** - extracts keywords from the question for the lexical search.
+3. **Astra DB** - combines + reranks semantic and lexical, returns the top passages.
+4. **Parser -> Chat Output** - the passages as text.
+
+Run from the Playground (or ▶ on Chat Output) after the collection is populated.
+1824|Score threshold (0.0-1.0) for heuristic jailbreak/prompt injection detection. Strong patterns (e.g., 'ignore instructions', 'jailbreak') have high weights, while weak patterns (e.g., 'bypass', 'act as') have low weights. If the cumulative score meets or exceeds this threshold, the input fails immediately. Lower values are more strict; higher values defer more cases to LLM validation.
+1825|Retrieves file content as text. IMPORTANT: Pass ONLY the file path as a string (e.g., '/Users/name/document.txt'). If you have search results from a vector store, you MUST extract the file_path string first. Example: file_path = result['data']['file_path'], then call retrieve_content(file_path). Returns: A Message containing the file's text content. Raises ValueError if file path is missing or file not found.
+1826|If enabled, follows HTTP redirects such as http→https or www/non-www normalization, which most sites rely on to serve their content. When SSRF protection is enabled (the default), every redirect hop is re-validated against the same blocked-IP denylist and DNS-pinned before it is fetched, so following redirects cannot be used to reach internal resources. Disable to capture the first response as-is without following redirects.
+1827|Retrieves file content as a pandas DataFrame. IMPORTANT: Pass ONLY the file path as a string (e.g., '/Users/name/data.csv'). If you have search results from a vector store, you MUST extract the file_path string first. Example: file_path = result['data']['file_path'], then call retrieve_content_as_dataframe(file_path). Supported formats: CSV, Excel (.xlsx, .xls), Parquet, JSON, TSV. Returns: A DataFrame with the file's tabular data. Raises ValueError if file not found, unsupported format, or parsing fails.
+1828|Describe what the custom guardrail should check for. This description will be used by the LLM to validate the input. Be specific and clear about what you want to detect. Examples: 'Detect if the input contains medical terminology or health-related information', 'Check if the text mentions financial transactions or banking details', 'Identify if the content discusses legal matters or contains legal advice'. The LLM will analyze the input text against your custom criteria and return YES if detected, NO otherwise.
+1829|# 🔗 Sequential Tasks Agents
+
+Three agents working in sequence - each does one task and passes its result to the next.
+
+## Setup
+Add your LLM key on each **Agent**. The **Web Search** tool needs no key.
+
+## How it works
+1. **Research Agent** (Web Search) - gathers information on your topic.
+2. **Analysis Agent** - analyzes the findings and draws conclusions.
+3. **Writer Agent** - synthesizes research + analysis into a final report.
+
+## Run
+Type a topic or question in the chat and run; the final report appears in Chat Output.
+1830|# 🔍 SEO Keyword Generator
+
+Generate SEO keywords and phrases for a topic with an **Agent**.
+
+## Setup
+1. **Agent** - add your LLM key (any provider in the Model dropdown).
+2. **Prompt Template** - set the topic / niche and tune the keyword instructions.
+
+## How it works
+1. **Prompt (instructions) → Agent (System Prompt)** - steers how keywords are generated.
+2. **Prompt (topic) → Agent (Input)** - the subject to generate keywords for.
+3. **Agent → Chat Output** - the SEO keyword list.
+
+## Run
+Open **Playground**, set your topic in the Prompt, and run.
+1831|# 🧩 Multi Agent flow
+
+A three-step chain of specialist Agents that turns a market trend into a development plan. Each Agent passes its result to the next.
+
+## Setup
+Add your LLM key on each **Agent** (any provider in the Model dropdown).
+
+## How it works
+1. **Innovator** - reads the market trend and proposes a product concept.
+2. **Analyst** - evaluates the concept's market potential, feasibility, and risks.
+3. **Product Manager** - turns it into a simple development and launch plan.
+
+## Run
+Type a market trend in the chat (a default one is provided) and run; the final plan appears in Chat Output.
+1832|Performs semantic similarity search in the vector store to find relevant documents/files. Input: A natural language search query (str). Returns: A list of Data objects (dicts). Each result has structure: {'data': {'text': '...', ...}}. The 'text' field always contains the matched document content. Other metadata fields depend on what was indexed (may include: 'file_path', 'source', 'page', etc.). IMPORTANT: To extract metadata like file_path, use: result['data'].get('file_path') or result.data.get('file_path'). Check what fields are available by inspecting result['data'].keys() or the first search result.
+1833|# 🔍 Hybrid Search RAG
+
+Retrieve passages from **Astra DB** using **hybrid search** - semantic (vector) and keyword (lexical) ranking combined and reranked. This flow has two parts:
+
+1. **Ingestion** (top row) - load your documents into the collection. Run once.
+2. **Search** (bottom row) - ask questions and get the most relevant passages.
+
+## One-time setup
+Use the **same Application Token, Database, and Collection on BOTH Astra DB nodes**. The collection should have Vectorize (server-side embeddings) + hybrid search enabled.
+
+Add your LLM key on the **Agent** (it only extracts keywords for the lexical search).
+1834|# 🤖 Simple Agent
+
+A starter **Agent** with tools: it can search the web, read a page, and do math/dates - then answer your request.
+
+## Setup
+1. **Agent** - add your LLM key (any provider in the Model dropdown).
+2. **Web Search** and **URL** tools need no key.
+
+## Tools
+- **Web Search** - find current information on the web.
+- **URL** - fetch the content of a specific page.
+- **Calculator** & **Current Date** - built into the Agent (toggles), so no extra nodes needed.
+
+## Run
+Open **Playground** and ask something that needs a tool, e.g. "Find the latest on <topic> and summarize it" or "What's today's date plus 30 days?".
+1835|# 💻 Portfolio Website Code Generator
+
+Upload your resume and an **Agent** generates a single-page portfolio website (HTML + CSS).
+
+## Setup
+1. **File** - upload your resume (PDF or TXT).
+2. **Agent** - add your LLM key (any provider in the Model dropdown).
+
+## How it works
+1. **File → Agent** - the Agent reads your resume.
+2. **Agent** - extracts your details and writes the portfolio site (header, about, experience, projects, skills, contact) as HTML/CSS.
+3. **Agent → Chat Output** - copy the generated code.
+
+## Run
+Upload your resume, open **Playground**, and run. Tip: a clearly formatted resume (headings, bullet points) produces the best result.
+1836|# 📈 Market Research
+
+Research a company and get a structured profile - pricing, plans, market, features, and more.
+
+## Setup
+1. **Agent** - add your LLM key (any provider in the Model dropdown).
+2. **Web Search** - needs no key.
+
+## How it works
+1. **Chat Input** - the company or domain to research.
+2. **Agent (Web Search)** - searches the web and gathers detailed information.
+3. **Structured Output** - extracts a structured company profile (domain, pricing tiers, free trial, enterprise, API, market, key features, target industries).
+4. **Parser - Chat Output** - the profile, formatted as a clean report.
+
+## Run
+Type a company name (e.g. "Amazon") and run.
+1837|# 🔎 Deeply Research Agent
+
+Ask a research question and get a thorough, synthesized answer. Three Agents work together: one plans, one researches the web, and one writes up the findings.
+
+## Setup
+1. Add your LLM key on each of the three **Agents**.
+2. **Web Search** - no key needed (DuckDuckGo / Google News).
+
+## How it works
+1. **Chat Input → Planner Agent** - drafts a plan / initial take on the question.
+2. **Search Agent (+ Web Search)** - researches the topic on the web.
+3. **Synthesizer Agent** - combines the question, plan, and search results into a final answer.
+4. **→ Chat Output** - the researched answer.
+
+## Run
+Open **Playground**, ask a research question, and run.
+1838|# 🐦 Twitter Thread Generator
+
+Turn a project brief into an engaging multi-tweet **thread**. Rebuilt on the new **Agent** core component.
+
+## Setup
+1. **Agent** - add your LLM key (any provider in the Model dropdown).
+2. **Prompt Template** - tune the thread rules: PROFILE_TYPE, PROFILE_DETAILS, CONTENT_GUIDELINES, TONE_AND_STYLE, OUTPUT_FORMAT, OUTPUT_LANGUAGE.
+
+## How it works
+1. **Prompt → Agent (System Prompt)** - the instructions + style guidelines steer the Agent.
+2. **Chat Input → Agent (Input)** - your project context / what the thread is about.
+3. **Agent → Chat Output** - the finished tweet or numbered thread.
+
+## Run
+Open **Playground**, type (or keep) the context in Chat Input, and run.
+1839|# 📸 Instagram Copywriter
+
+Turn a topic into a ready-to-post **Instagram caption + image prompt** with a simple two-Agent chain - no prompt templates, no bundles.
+
+## Setup
+Add your LLM key on **both Agents** (Model dropdown). **Web Search** needs no key (DuckDuckGo).
+
+## How it works
+1. **Chat Input -> Caption Agent** - your topic.
+2. **Caption Agent (+ Web Search tool)** - researches the topic live, then writes the caption (brand guidelines live in its System Prompt - edit there).
+3. **Caption Agent -> Image Agent** - reproduces the caption and appends a matching image-generation prompt.
+4. **Image Agent -> Chat Output** - final caption + image prompt.
+
+## Run
+Open **Playground**, type a topic, and run.
+1840|# 🧩 Custom Component Generator
+
+Describe the component you want and an **Agent** writes a Langflow custom Component (Python). It pulls Langflow's reference code on demand and remembers the conversation so you can iterate.
+
+## Setup
+1. **Agent** - add your LLM key (any provider in the Model dropdown).
+2. **URL** and **Memory** tools need no key.
+
+## How it works
+1. **Chat Input → Agent** - your component request.
+2. The Agent uses the **URL** tool to fetch Langflow reference code (base class, examples) when it needs the exact conventions, and **Memory** to recall earlier turns.
+3. **Agent → Chat Output** - the generated Python. Ask follow-ups to refine it.
+
+## Run
+Open **Playground**, describe the component you need, and run.
+1841|# Vector Store RAG
+
+Ask questions over a **Knowledge Base** (retrieval-augmented generation), fully **bundle-free** - the core **Knowledge** component, no external vector database. Rebuilt on the new **Agent** core component (replaces the Language Model).
+
+## Setup
+1. Point the **Knowledge** node at a populated Knowledge Base - pick one in the dropdown, or ingest documents first (e.g. via the Document Q&A flow).
+2. **Agent** - add your LLM key (any provider in the Model dropdown).
+
+## How it works
+1. **Chat Input → Knowledge (Retrieve)** - semantic search for the most relevant chunks.
+2. **Parser → Prompt** - formats the chunks as context alongside your question.
+3. **Agent → Chat Output** - answers using only that retrieved context.
+1842|# ✈️ Travel Planning Agents
+
+A team of three **Agents** plans a trip end to end: one researches the destination on the web, one drafts the itinerary, and one works out the budget.
+
+## Setup
+Add your LLM key on each of the three **Agents** (Model dropdown). **Web Search**, **URL** and **Calculator** tools need no key.
+
+## How it works
+1. **Chat Input → Research Agent** (+ **Web Search**) - gathers current info about the destination.
+2. **→ Itinerary Agent** (+ **URL**) - reads relevant pages and drafts the plan.
+3. **→ Budget Agent** (+ **Calculator**) - estimates costs and finalizes the trip.
+4. **→ Chat Output** - the complete travel plan.
+
+## Run
+Open **Playground**, describe your trip (destination, dates, budget, interests), and run.
+1843|# 📱 Social Media Agent
+
+An **Agent** that researches topics across the web and pulls content from pages, then answers your social-media tasks (draft posts, summarize trends, gather references).
+
+## Setup
+1. **Agent** - add your LLM key (any provider in the Model dropdown).
+2. **Web Search** - no key needed (DuckDuckGo / Google News).
+3. **URL** - no key needed; fetches the content of a page you point the Agent at.
+
+## How it works
+1. **Chat Input → Agent** - your task (e.g. "summarize the latest on <topic> and draft a post").
+2. The Agent uses its tools - **Web Search** to find current info and **URL** to read specific pages - then composes the answer.
+3. **Agent → Chat Output** - the result.
+
+## Run
+Open **Playground**, describe what you want, and run.
+1844|# 💰 Price Deal Finder
+
+An **Agent** that hunts for the best price on a product: it searches the web (and coupon news), reads listing pages, does the math, and remembers what you're tracking - returning the deals as a structured table.
+
+## Setup
+1. **Agent** - add your LLM key. Its tools are Web Search, URL, Calculator, and Memory.
+2. **Web Search** / **URL** - no key needed.
+3. **Memory** - recalls your watchlist and preferences across sessions (no key).
+
+## How it works
+1. **Chat Input → Agent** - the product you're shopping for.
+2. The Agent searches the web (and News for coupons), reads a listing with URL, computes savings with the Calculator, and checks Memory for anything you tracked before.
+3. **Agent → Chat Output** - the best deals as a structured table (retailer, price, link, notes).
+
+## Run
+Open **Playground**, name a product, and run.
+1845|# 📰 Content Aggregator
+
+Search the news on a topic, summarize each article, and compose a clean aggregated digest - then save it to a file.
+
+## Setup
+1. **Agent** and **Batch Run** - add your LLM key on each (any provider in the Model dropdown).
+2. **Web Search** - needs no key. Set its **Search Mode** to *News* (already selected); optionally set a **Topic** (Business, Technology, ...).
+3. **Save to File** - choose where to write the digest.
+
+## How it works
+1. **Chat Input -> Web Search (News)** - finds recent articles on your topic (returns title, link, date, summary).
+2. **Batch Run** - summarizes every article in one line.
+3. **Parser -> Agent** - the summaries are formatted and the Agent curates them into a clean digest.
+4. **Chat Output -> Save to File** - the digest is shown and saved.
+
+## Run
+Type a topic (e.g. "artificial intelligence") and run.
+1846|# 📖 README
+This template translates research paper summaries on ArXiv into Portuguese and summarizes them. 
+ Using **Langflow’s looping mechanism**, the template iterates through multiple research papers, translates them with the **OpenAI** model component, and outputs an aggregated version of all translated papers.  
+
+## Quick start
+1. Configure your **Model Provider** with your API credentials. 
+2. In the **Playground**, enter a query related to a research topic (for example, “Quantum Computing Advancements”).  
+
+  The flow fetches a list of research papers from ArXiv matching the query. Each paper in the retrieved list is processed one-by-one using the Langflow **Loop component**. 
+
+  The abstract of each paper is translated into Portuguese by the **OpenAI** model component. 
+
+ Once all papers are translated, the system aggregates them into a **single structured output**.
+1847|# 📖 README
+This template demonstrates a standard chat flow with additional instructions provided by a prompt. Prompts provide instructions and inputs for a Large Language Model (LLM) beyond the standard user-provided chat input. In this example, the prompt describes the LLM's role and persona.
+
+## Quick start
+1. Configure your **Model Provider** with your API credentials.
+2. Open the **Playground** to start the chat and run the flow.
+
+## Next steps
+Change the prompt template, model, or model settings, such as **Temperature**, and then see how the responses change with these different inputs.
+💡 Some component settings are hidden by default; to view all settings click **Controls** in each component's header menu.
+💡 You can use curly braces to create variables in your template, such as `{variable}`. These can be populated from other components, with Langflow global variables, or at runtime.
+1848|# 🖼️ Image Sentiment Analysis
+
+Upload an image and a **Language Model** (vision) classifies its sentiment (**positive / negative / neutral**) and describes it in a single `Sentiment: ..., Description: ...` line.
+
+## Setup
+1. **Language Model** - pick a **vision-capable** model (e.g. a GPT-4o / multimodal model) and add your API key. The classification instruction lives in its **System Message** (edit there).
+2. **Chat Input** - attach the image (paperclip 📎) you want analyzed.
+
+## How it works
+1. **Chat Input -> Language Model** - the image is sent straight to the vision model as content (unlike an Agent, the Language Model passes images natively, so the model truly sees them).
+2. **Language Model -> Chat Output** - the model returns the sentiment + description in that single-line format.
+
+## Run
+Open **Playground**, attach an image, and run. You can send the image on its own - no extra text needed.
+1849|# 📊 Financial Report Parser (Agent)
+
+Upload a financial report and an **Agent** extracts the key metrics (Gross Profit, EBITDA, Net Income, ...) into a structured table. Rebuilt on the **Agent** core component using its built-in **structured output** - replaces the standalone Structured Output component.
+
+## Setup
+1. **File** - upload your financial report (PDF, DOCX, XLSX, TXT).
+2. **Agent** - pick your **Model Provider** + API key. Edit the **Output Schema** to change which metrics are extracted.
+
+## How it works
+1. **File → Agent** - the Agent reads the report and extracts the schema fields.
+2. **Agent (Structured Response) → Parser** - turns the extracted JSON into readable text.
+3. **Parser → Chat Output** - shows the structured metrics.
+
+## Run
+Open **Playground**, upload the report, and run. The Agent returns only values found in the document (a field stays blank when the metric isn't present).
+1850|# 🔎 Knowledge Retrieval
+
+Run a semantic search against a **Knowledge Base** and return the matching passages — **pure retrieval, no LLM** (the output is the raw retrieved text, not a generated answer). Use it to inspect what your KB returns, or as a building block for a RAG flow.
+
+> **Prerequisite:** you need a Knowledge Base that already has data in it. Create and populate one under **Knowledge Bases**, or ingest documents with another flow first.
+
+## Setup
+1. **Knowledge** node → pick your Knowledge Base from the dropdown (click **Refresh List** if it's not shown).
+2. (Optional) set a default **Search Query**.
+
+## Use
+Open the **Playground**, type a query → the flow returns the top matching passages (default **5**, configurable under **Controls**).
+
+## How it works
+1. **Chat Input → Knowledge (Retrieve)** — semantic search over the KB.
+2. **Parser → Chat Output** — formats the retrieved passages as readable text.
+1851|# 📄 Document Q&A
+
+Ask questions about your documents and get answers grounded in their content,
+using a Knowledge Base for retrieval.
+
+## Setup
+1. **Knowledge Base** — add your documents to a Knowledge Base first (via the
+   **Knowledge** module in Langflow, or a separate ingestion flow). This flow
+   only **retrieves** — it does not ingest.
+2. **Knowledge (Retrieve)** — select the Knowledge Base that holds your documents.
+3. **Agent** — add your LLM key (any provider in the Model dropdown).
+
+## How it works
+1. **Chat Input → Knowledge (Retrieve)** — your question pulls the most relevant
+   passages from the Knowledge Base.
+2. **Parser → Prompt** — the retrieved passages become the context, combined with
+   your question.
+3. **Agent → Chat Output** — the Agent answers using **only** the retrieved
+   context (it won't make things up beyond your documents).
+
+## Run
+Make sure your Knowledge Base is populated, then type a question in the Playground.
+1852|The embedding model to use for the selected provider. Each provider has a different set of models available (full list at https://docs.datastax.com/en/astra-db-serverless/databases/embedding-generation.html):
+
+Azure OpenAI: text-embedding-3-small, text-embedding-3-large, text-embedding-ada-002
+
+Hugging Face - Dedicated: endpoint-defined-model
+
+Hugging Face - Serverless: sentence-transformers/all-MiniLM-L6-v2, intfloat/multilingual-e5-large, intfloat/multilingual-e5-large-instruct, BAAI/bge-small-en-v1.5, BAAI/bge-base-en-v1.5, BAAI/bge-large-en-v1.5
+
+Jina AI: jina-embeddings-v2-base-en, jina-embeddings-v2-base-de, jina-embeddings-v2-base-es, jina-embeddings-v2-base-code, jina-embeddings-v2-base-zh
+
+Mistral AI: mistral-embed
+
+NVIDIA: NV-Embed-QA
+
+OpenAI: text-embedding-3-small, text-embedding-3-large, text-embedding-ada-002
+
+Upstage: solar-embedding-1-large
+
+Voyage AI: voyage-large-2-instruct, voyage-law-2, voyage-code-2, voyage-large-2, voyage-2
+1853|# 📝 Meeting Summary
+
+Transcribe a meeting recording, get a structured summary, and chat about it — all with a single Agent that's grounded in the transcript and remembers the conversation.
+
+## Setup
+1. **AssemblyAI Transcriber** — add your AssemblyAI API key and the **Audio File URL** of the recording.
+2. **Agent** — add your LLM key (any provider in the Model dropdown).
+3. **Memory** — keeps the chat context across turns (no key needed).
+
+## How it works
+1. **AssemblyAI Transcriber** transcribes the audio into a transcript.
+2. **Prompt** combines the transcript with your message and sends it to the **Agent**.
+3. **Agent** — with an empty message it returns a structured **summary** (overview, decisions, action items, key points); with a question it **answers from the transcript**. The **Memory** tool lets it handle follow-up questions.
+4. **Chat Output** shows the result.
+
+## Run
+Add your keys and the audio URL, run once to get the summary, then ask follow-up questions in the Playground.
+
+> Tip: after the first transcription, **Freeze** the AssemblyAI Transcriber node so chatting reuses the saved transcript instead of re-transcribing (saves time and AssemblyAI credits).
+1854|# ✍️ Blog Writer
+
+Give it a **URL** and it writes a blog post grounded in that page. An **Agent** fetches the page itself using the **URL component as a tool** (Fetch Content), then writes the article in Markdown. Rebuilt on the new Agent core component — no separate parsing step.
+
+## Setup
+1. **Agent** — pick your **Model Provider** and paste its API key (OpenAI, Anthropic, Google, Groq, etc. — any option in the Model dropdown).
+2. **URL tool** — already wired into the Agent's **Tools**; no setup needed. Keep **Depth = 1** so it fetches just the page you give it (higher depth follows links and costs more time/tokens).
+
+## Use
+1. Open the **Playground**.
+2. Paste a **source URL**, e.g. `https://docs.langflow.org/`.
+3. The Agent fetches that page through the URL tool and returns a finished blog post.
+
+> If nothing runs on an empty task, type `Write the blog post from the source URL.` in the Agent's **Input** field.
+
+## How it works
+1. **Chat Input** — you enter the source URL.
+2. **Prompt Template `{URL}`** — injects the URL into the Agent's instructions.
+3. **Agent (+ URL tool)** — calls the URL **Fetch Content** tool to retrieve the page, then writes a Markdown post grounded only in what it fetched (no invented facts).
+4. **Chat Output** — the finished blog post.
+1855|# 💵 SaaS Pricing
+
+Calculate the right monthly subscription price for a software product — from costs, profit margin, and subscriber count. The Agent can also pull the numbers from your own database.
+
+## Setup
+1. **Agent** — add your LLM key. ⚠️ **Use a capable model** (e.g. a flagship GPT / Claude / Gemini Pro tier). The Agent calls the **SQL Database** tool and does multi-step math, so smaller/faster models may loop and hit the recursion limit when querying the DB.
+2. **SQL Database** *(optional)* — set your **Database URL** to let the Agent query real cost / subscriber data from your own database. Leave it unset to just type the numbers in the chat.
+3. The Agent has a built-in **calculator** and **current-date** tool.
+
+## How it works
+1. **Chat Input → Agent** — your request (e.g. "subscription price for Beta CRM using my database", or "price: infra 2000, support 1000, dev 3000, margin 30%, 200 subscribers").
+2. The Agent queries the **SQL Database** when connected, then computes the minimum price per subscriber with its built-in calculator.
+3. **Agent → Chat Output** — the recommended pricing breakdown.
+
+## Run
+Open the **Playground**, describe the product (or name one in your connected database), and run.
+
+> Tip: when using the database, mention the table/product so the Agent queries it in one shot — and prefer a capable model to avoid tool-call loops.
+1856|# 📊 Text Sentiment Analysis
+
+Upload a text file (a review, an email, feedback, an article) and the flow analyzes its sentiment **two complementary ways** — a quick direct classification and a deeper summarize-then-analyze pass. Each result comes back as a clean JSON object.
+
+## Setup
+1. **File** — upload the text to analyze (PDF, TXT, MD, DOCX, …).
+2. **Agents** — add your LLM key on each of the three Agents (Model dropdown). No other keys needed.
+
+## What you get (two outputs)
+**1) Direct classification** — File → Agent → Chat Output
+Reads the text in one pass and returns:
+- `message_category` — e.g. *Positive Feedback*, *Complaint*, *Question*
+- `message_sentiment` — *Positive* / *Negative* / *Neutral*
+
+**2) Summary & insights** — File → Agent (summarize) → Agent (analyze) → Chat Output
+First condenses the text, then analyzes the summary, returning:
+- `summary` — a short recap of the text
+- `action_item` — a concrete next step suggested by the content
+- `sentiment` — overall sentiment of the summarized view
+
+The two can differ on nuanced text — a glowing review with a few complaints may read *Positive* directly but *Neutral* once distilled. Comparing them is the point.
+
+## Run
+Upload a file, open the **Playground**, and run. Swap the file to analyze different texts.
+
+## Tips
+- Clear, well-formatted text gives better results.
+- Each Agent's behavior is set in its **Agent Instructions** / the **Prompt** feeding it — edit those to change the categories, fields, or tone.
+1857|# 📖 README
+This flow is a chatbot with **long-term memory**. An **Agent** answers the user, and a **Memory Base** component lets it **store and recall facts across conversations** — so it remembers what you told it even in a brand-new chat session.
+
+## Quick start
+1. Configure your **Model Provider** with your API credentials in the **Agent**.
+2. Open the **Playground**, and then tell the agent something about yourself (e.g. your name).
+3. Start a **new chat session** in the Playground, and then ask, `what is my name`. The agent recalls it from the **Memory Base** — not just from the current session's history.
+
+## About the Memory Base component
+The **Agent** and **Language Model** components have built-in chat memory for the **current session**, enabled by default. **Memory Base** goes further: it persists **long-term memories** to a memory store and lets the agent retrieve them **across sessions within this flow for the same execution principal**. The agent uses Memory Base as a tool — writing new memories as you chat and reading the relevant ones when it answers.
+
+In this flow, **Memory Base** has session filtering turned **off**, so memories are shared across sessions — that's why a new chat can still recall your name.
+
+Use **Memory Base** when you need memory that outlives a single chat session — personalization, user facts, or supplying memories from other chats in this flow. For session-only context, the built-in chat memory is enough. For more information, see [Memory](https://docs.langflow.org/memory).
+
