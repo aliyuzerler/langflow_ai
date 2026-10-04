@@ -109,7 +109,7 @@ jobs:
       - uses: actions/setup-node@v7
         with:
           node-version: '22'
-      - uses: astral-sh/setup-uv@v10.0.0
+      - uses: astral-sh/setup-uv@v7
         with:
           version: latest-known
           enable-cache: true
@@ -188,7 +188,7 @@ jobs:
         with:
           pattern: backend-results-${{ needs.plan.outputs.namespace }}-py${{ matrix.python-version }}-s${{ inputs.shards }}-w${{ inputs.workers }}-${{ inputs.distribution }}-g*
           path: results
-      - uses: astral-sh/setup-uv@v10.0.0
+      - uses: astral-sh/setup-uv@v7
         with:
           version: latest-known
           python-version: '3.13'
