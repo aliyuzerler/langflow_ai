@@ -315,3 +315,9 @@ _context
 requirements-mend.txt
 requirements-workspace-mend.txt
 requirements-gp-mend.txt
+
+# local test artifacts & keys
+.lf_api_key.json
+full_tour_result*.txt
+tool_test_result*.txt
+full_tour_output.md
